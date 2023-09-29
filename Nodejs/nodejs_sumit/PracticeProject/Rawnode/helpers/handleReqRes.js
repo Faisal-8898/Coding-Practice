@@ -32,20 +32,28 @@ handler.handleReqRes = (req, res) => {
     : notFoundHandler;
   console.log(chosenHandler);
 
-  chosenHandler(reqProperties, (statusCode, payLoad) => {
-    statusCode = typeof statusCode === "number" ? statusCode : 500;
-    payLoad = typeof payLoad === "object" ? payLoad : {};
 
-    const payLoadString = JSON.stringify(payLoad);
-
-    res.writeHead(statusCode);
-    res.end(payLoadString);
-  });
 
   req.on("data", (buffer) => {
     realData += decoder.write(buffer);
     res.end("khela shesh");
   });
+
+  req.on('end',()=>{
+    realData+=decoder.end();
+
+    chosenHandler(reqProperties, (statusCode, payLoad) => {
+      statusCode = typeof statusCode === "number" ? statusCode : 500;
+      payLoad = typeof payLoad === "object" ? payLoad : {};
+  
+      const payLoadString = JSON.stringify(payLoad);
+  
+      res.writeHead(statusCode);
+      res.end(payLoadString);
+    });
+    
+    res.end('hello mama');
+  })
 };
 
 module.exports = handler;
