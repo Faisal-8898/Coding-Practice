@@ -7,10 +7,8 @@ const data  = require('./lib/data');
 //module scaffolding
 const app = {};
 
-data.create('test','newFile', {
-  name : 'faisal',
-  ID : 2022260065,
-},(err)=>{
+
+data.delete('test','newFile',(err) => {
   console.log(err);
 })
 
