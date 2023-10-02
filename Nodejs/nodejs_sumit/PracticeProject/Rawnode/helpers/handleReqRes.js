@@ -4,6 +4,7 @@ const routes = require("../routes.js");
 const {
   notFoundHandler,
 } = require("../handlers/routeHandlers/notFoundHandler");
+const {parseJSON} = require('../helpers/utilities.js')
 
 const handler = {};
 
@@ -30,29 +31,29 @@ handler.handleReqRes = (req, res) => {
   const chosenHandler = routes[trimmedPath]
     ? routes[trimmedPath]
     : notFoundHandler;
-  console.log(chosenHandler);
+
 
 
 
   req.on("data", (buffer) => {
     realData += decoder.write(buffer);
-    res.end("khela shesh");
   });
 
   req.on('end',()=>{
     realData+=decoder.end();
+
+    reqProperties.boby = parseJSON(realData);
 
     chosenHandler(reqProperties, (statusCode, payLoad) => {
       statusCode = typeof statusCode === "number" ? statusCode : 500;
       payLoad = typeof payLoad === "object" ? payLoad : {};
   
       const payLoadString = JSON.stringify(payLoad);
-  
+      
+      res.setHeader('Content-Type', 'application/json');
       res.writeHead(statusCode);
       res.end(payLoadString);
     });
-    
-    res.end('hello mama');
   })
 };
 
