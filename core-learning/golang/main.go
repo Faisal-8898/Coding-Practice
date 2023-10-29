@@ -14,7 +14,7 @@ import (
  
   
 
-func main() {
+//func main() {
 	//a := 10;
 	//var a, b, c, d int = 1, 3, 5, 7;
 
@@ -22,4 +22,4 @@ func main() {
 	// c, d :=  78, "mama"
 	// fmt.Println("hello kaka kmn asen!")
 	// fmt.Println(k, v, c, d);				
-}   
+//}   
