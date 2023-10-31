@@ -1,31 +1,19 @@
 package main
 
-import (
-	"fmt"
-	"time"
-)
+import "fmt"
+
+func concat(s1 string, s2 string) string {
+	return s1 + s2
+}
+
+// don't touch below this line
 
 func main() {
-	// Welcome := "Welcome to use input"
-	// fmt.Println(Welcome)
-	// // creating reader tool for input
-	// var reader = bufio.NewReader(os.Stdin)
+	test("Lane,", " happy birthday!")
+	test("Elon,", " hope that Tesla thing works out")
+	test("Go", " is fantastic")
+}
 
-	// input, _ := reader.ReadString('\n')
-	// //consvertion
-	// numConv, err := strconv.ParseFloat(strings.TrimSpace(input), 64)
-
-	// if err != nil {
-	// 	fmt.Println(err)
-	// } else {
-	// 	fmt.Println("adding number:", numConv+1)
-	// }
-	PresentTime := time.Now()
-	fmt.Println(PresentTime)
-	fmt.Println(PresentTime.Format("01-02-2006 15:04:05 Monday"))
-
-	createDate := time.Date(2000, time.August, 26, 23, 23, 0, 0, time.UTC)
-	fmt.Println(createDate)
-	fmt.Println(createDate.Format("01-02-2006 15:04:05 Monday"))
-
+func test(s1 string, s2 string) {
+	fmt.Println(concat(s1, s2))
 }
