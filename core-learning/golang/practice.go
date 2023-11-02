@@ -1,5 +1,5 @@
 // go mod init "any"
-package main
+package hello
 
 import (
 	"bufio"
