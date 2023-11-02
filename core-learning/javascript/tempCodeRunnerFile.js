@@ -1,0 +1,1 @@
+let number = () => 10; //return needs to be cancel short funtion
