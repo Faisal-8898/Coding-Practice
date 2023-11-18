@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <script>
+    function parseit(data) {
+      console.log(data);
+    }
+    function callback(res) {
+      res.json().then(parseit);
+    }
+    function onPress() {
+      fetch("http://localhost:4000/todos", {
+        method: "GET",
+      }).then(callback);
+    }
+  </script>
+  <body>
+    <label for="fname">Todo :</label>
+    <input type="text" id="fname" name="fname" />
+    <label for="description">Description :</label>
+    <input type="text" id="description" name="description" />
+    <button type="submit" onclick="onPress()">submit</button>
+  </body>
+</html>
