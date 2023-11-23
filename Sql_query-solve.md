@@ -3,28 +3,54 @@ Certainly! Let's go through each problem, explaining why the queries are written
 #### Table Creation:
 
 ```sql
-CREATE TABLE Customer (
-  customer_name VARCHAR(255),
-  customer_street VARCHAR(255),
-  customer_city VARCHAR(255)
-);
-
+-- 1) Branch
 CREATE TABLE Branch (
-  branch_name VARCHAR(255),
-  branch_city VARCHAR(255),
-  assets DECIMAL(10, 2)
+    branch_name VARCHAR(255) PRIMARY KEY,
+    branch_city VARCHAR(255),
+    assets DECIMAL(10, 2)
 );
 
+-- 2) Customer
+CREATE TABLE Customer (
+    customer_name VARCHAR(255) PRIMARY KEY,
+    customer_street VARCHAR(255),
+    customer_city VARCHAR(255)
+);
+
+-- 3) Account
 CREATE TABLE Account (
-  account_number INT,
-  branch_name VARCHAR(255),
-  balance DECIMAL(10, 2)
+    account_number INT PRIMARY KEY,
+    branch_name VARCHAR(255),
+    balance DECIMAL(10, 2),
+    FOREIGN KEY (branch_name) REFERENCES Branch(branch_name)
 );
 
-CREATE TABLE Depositor (
-  customer_name VARCHAR(255),
-  account_number INT
+-- 4) Loan
+CREATE TABLE Loan (
+    loan_number INT PRIMARY KEY,
+    branch_name VARCHAR(255),
+    amount DECIMAL(10, 2),
+    FOREIGN KEY (branch_name) REFERENCES Branch(branch_name)
 );
+
+-- 5) Depositor
+CREATE TABLE Depositor (
+    customer_name VARCHAR(255),
+    account_number INT,
+    PRIMARY KEY (customer_name, account_number),
+    FOREIGN KEY (customer_name) REFERENCES Customer(customer_name),
+    FOREIGN KEY (account_number) REFERENCES Account(account_number)
+);
+
+-- 6) Borrower
+CREATE TABLE Borrower (
+    customer_name VARCHAR(255),
+    loan_number INT,
+    PRIMARY KEY (customer_name, loan_number),
+    FOREIGN KEY (customer_name) REFERENCES Customer(customer_name),
+    FOREIGN KEY (loan_number) REFERENCES Loan(loan_number)
+);
+
 ```
 
 ### Problem 1:
@@ -47,7 +73,7 @@ WHERE C.customer_name = D.customer_name
   AND C.customer_city = B.branch_city;
 ```
 
-## you can also solve in INNER JOIN way
+#### --you can also solve in INNER JOIN way--
 
 #### Sub-Codes Explanation:
 
