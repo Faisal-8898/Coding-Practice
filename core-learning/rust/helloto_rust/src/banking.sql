@@ -1,9 +1,4 @@
--- drop table depositor cascade constraints;
--- drop table borrower cascade constraints;
--- drop table account cascade constraints;
--- drop table loan cascade constraints;
--- drop table customer cascade constraints;
--- drop table branch cascade constraints;
+
 
 SHOW DATABASES();
 

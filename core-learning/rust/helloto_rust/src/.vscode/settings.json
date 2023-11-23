@@ -9,9 +9,9 @@
       "server": "localhost",
       "port": 3306,
       "driver": "MySQL",
+      "name": "Book",
       "username": "newuser",
-      "name": "hello",
-      "database": "moja"
+      "database": "Book"
     }
   ]
 }
