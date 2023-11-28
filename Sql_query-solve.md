@@ -372,3 +372,51 @@ WHERE TotalLoanAmount < (SELECT AVG(TotalLoanAmount) FROM BranchLoans);
 Use the same table creation commands as in Problem 1.
 
 These explanations provide a detailed understanding of each problem, the corresponding queries, and their components. If you have any specific questions about a particular query or concept, feel free to ask!
+
+## Problem 11:
+
+```
++---------+--------+-----------+--------+
+| inst_id | name   | dept_name | salary |
++---------+--------+-----------+--------+
+| 101     | John   | Biology   | 50000  |
+| 102     | Jane   | Biology   | 48000  |
+| 103     | Bob    | Physics   | 45000  |
+| 104     | Alice  | Physics   | 47000  |
+| 105     | Carol  | Chemistry | 52000  |
++---------+--------+-----------+--------+
+```
+
+### Find the average instructors’ salaries of those departments where the average salary is greater than $42,000.”
+
+So, how can we do this one simple approach is first we need avg of each departments , remember when someone says each, we need to consider Group by , then we make a table from our first approach As department_avg. put this in from .
+
+```sql
+SELECT dept_name, avg_salary
+FROM (
+    SELECT dept_name, AVG(salary) AS avg_salary
+    FROM instructor
+    GROUP BY dept_name
+) AS department_avg
+WHERE avg_salary > 42000;
+```
+
+we can also use having
+
+```sql
+SELECT dept_name, AVG(salary) AS average_salary
+FROM instructor
+GROUP BY dept_name
+HAVING AVG(salary) > 42000;
+```
+
+#### result:
+
+```
++-----------+----------------+
+| dept_name | average_salary |
++-----------+----------------+
+| Biology   | 49000.00       |
+| Chemistry | 52000.00       |
++-----------+----------------+
+```
