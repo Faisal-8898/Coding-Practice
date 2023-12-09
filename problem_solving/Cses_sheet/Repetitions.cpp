@@ -1,21 +1,19 @@
-#include <iostream>
-#include <map>
+#include <bits/stdc++.h>
 using namespace std;
 int main()
-{ 
+{
     string str;
-    map<char, long int> mp;
-    long int maxx = 1;
     cin >> str;
-    for (long int i = 0; i < str.length(); i++)
+    int maxx = 1;
+    for (int i = 0; i < str.length() - 1; i++)
     {
-        mp[str[i]] = 1;
-        while (i + 1 < str.length() && str[i] == str[i + 1])
+        int count = 1;
+        while (str[i] == str[i + 1] && i < str.length())
         {
-            mp[str[i]]++;
+            count++;
             i++;
         }
-        maxx = max(maxx, mp[str[i]]);
+        maxx = max(count, maxx);
     }
     cout << maxx;
 }
