@@ -22,21 +22,11 @@
   }
   getData();
   function onPress(event) {
-    event.preventDefault();
     const title = document.getElementById("title").value;
     const description = document.getElementById("description").value;
 
-
-    const titleDiv = document.createElement('div');
-    const descriptionDiv = document.createElement('div');
-
     function parsedRes(data) {
       console.log(data);
-
-      // titleDiv.innerHTML = data.title;
-      // descriptionDiv.innerHTML = data.description;
-      // parentDiv.appendChild(titleDiv);
-      // parentDiv.appendChild(descriptionDiv);
     }
 
     function callback(res) {
