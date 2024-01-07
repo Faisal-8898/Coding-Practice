@@ -1,0 +1,59 @@
+<head>
+  <title>
+    todo
+  </title>
+</head>
+<script>
+
+  function getData() { 
+    function callback3(data){
+      const parentDiv = document.getElementById('parent')
+      console.log(data);
+      parentDiv.innerHTML= JSON.stringify(data);
+    }
+
+    function callback2(res){
+      res.json(callback3).then(callback3);
+    }
+
+    fetch("http://localhost:4000/todos", {
+      method: "GET"
+    }).then(callback2);
+  }
+  getData();
+  function onPress(event) {
+    const title = document.getElementById("title").value;
+    const description = document.getElementById("description").value;
+
+    function parsedRes(data) {
+      console.log(data);
+    }
+
+    function callback(res) {
+      res.json(parsedRes).then(parsedRes);
+    }
+
+    fetch("http://localhost:4000/todos", {
+      method: "POST",
+      body: JSON.stringify(
+        {
+          title,
+          description
+        }
+      ),
+      headers: {
+        "Content-Type": "application/json"
+      }
+    }).then(callback);
+  }
+
+</script>
+
+<body> title:
+  <input type="text" id="title"></input> <br /><br />
+  description:
+  <input type="text" id="description"></input /><br /><br />
+  <button onclick="onPress(event)">submit</button>
+  <button onclick="getData()">All todos</button>
+  <div id="parent"></div>
+</body>
