@@ -1,7 +1,7 @@
-const express = require("express");
-const bodyParser = require("body-parser");
-const fs = require("fs");
-const cors = require("cors");
+import express from "express";
+import bodyParser from "body-parser";
+import fs from "fs";
+import cors from "cors";
 
 const app = express();
 
@@ -31,11 +31,13 @@ app.get("/todos", (req, res) => {
 });
 
 app.post("/todos", (req, res) => {
+  console.log(req.body);
   const newTodo = {
     id: Math.floor(Math.random() * 1000000), // unique random id
     title: req.body.title,
     description: req.body.description,
   };
+
   fs.readFile("todos.json", "utf8", (err, data) => {
     if (err) throw err;
     const todos = JSON.parse(data);
@@ -65,7 +67,7 @@ app.delete("/todos/:id", (req, res) => {
 });
 
 // for all other routes, return 404
-app.use((req, res, next) => {
+app.use((req, res) => {
   res.status(404).send();
 });
 

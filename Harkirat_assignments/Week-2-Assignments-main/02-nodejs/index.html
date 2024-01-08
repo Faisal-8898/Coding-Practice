@@ -5,33 +5,70 @@
 </head>
 <script>
 
-  function getData() { 
-    function callback3(data){
+  function deleteDone() {
+    console.log("delete done");
+  }
+
+  function deleteTodo(id){
+    fetch("http://localhost:4000/todos/"+id, {
+      method: "DELETE"
+    }).then(deleteDone);
+  }
+
+  function callback3(data){
       const parentDiv = document.getElementById('parent')
       console.log(data);
-      parentDiv.innerHTML= JSON.stringify(data);
+      for (let i = 0; i < data.length; i++) {
+        const element = data[i];
+        const parentElement = document.createElement('div');
+        const titleSpan = document.createElement('span');
+        const descriptionSpan = document.createElement('span');
+        const deleteButton = document.createElement('button');
+        deleteButton.setAttribute("onclick", "deleteTodo(" + data[i].id + ")");
+        titleSpan.innerHTML = (element.title);
+        descriptionSpan.innerHTML = (element.description);
+        deleteButton.innerHTML = 'delete';
+        parentElement.appendChild(titleSpan);
+          parentElement.appendChild(descriptionSpan);
+       parentElement.appendChild(deleteButton);
+        parentDiv.appendChild(parentElement);
+      }
     }
-
-    function callback2(res){
+  function callback2(res){
       res.json(callback3).then(callback3);
     }
 
+  function getData() { 
     fetch("http://localhost:4000/todos", {
       method: "GET"
     }).then(callback2);
   }
   getData();
-  function onPress(event) {
+
+  function parsedResponse(data) {
+    console.log(data);
+    const parentDiv = document.getElementById('parent')
+        const parentElement = document.createElement('div');
+        const titleSpan = document.createElement('span');
+        const descriptionSpan = document.createElement('span');
+        const deleteButton = document.createElement('button');
+        titleSpan.innerHTML = (data.title);
+        descriptionSpan.innerHTML = (data.description);
+        deleteButton.innerHTML = 'delete';
+        parentElement.appendChild(titleSpan);
+          parentElement.appendChild(descriptionSpan);
+       parentElement.appendChild(deleteButton);
+        parentDiv.appendChild(parentElement);
+       
+  }
+
+  function callback(res){
+    res.json().then(parsedResponse);
+  }
+
+  function onPress() {
     const title = document.getElementById("title").value;
     const description = document.getElementById("description").value;
-
-    function parsedRes(data) {
-      console.log(data);
-    }
-
-    function callback(res) {
-      res.json(parsedRes).then(parsedRes);
-    }
 
     fetch("http://localhost:4000/todos", {
       method: "POST",
@@ -53,7 +90,7 @@
   <input type="text" id="title"></input> <br /><br />
   description:
   <input type="text" id="description"></input /><br /><br />
-  <button onclick="onPress(event)">submit</button>
+  <button onclick="onPress()">submit</button>
   <button onclick="getData()">All todos</button>
   <div id="parent"></div>
 </body>
