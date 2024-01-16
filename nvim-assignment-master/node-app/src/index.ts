@@ -1,5 +1,5 @@
 import express from "express";
-import { sub, addition } from "./math";
+import { sum, sub } from "./math";
 
 const app = express();
 
@@ -16,7 +16,7 @@ const app = express();
 
 app.get("/sum", (req, res) => {
   res.json({
-    sum: addition(1, 2),
+    sum: sum(1, 2),
   });
 });
 
@@ -26,7 +26,4 @@ app.get("/sub", (req, res) => {
   });
 });
 
-app.get("/", (req, res) => {
-  res.json("hello");
-});
 app.listen(3000);

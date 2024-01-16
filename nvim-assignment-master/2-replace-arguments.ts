@@ -6,8 +6,8 @@
  *  2. Or you can cut the second line and paste it above to flip the args
  */
 export const getCurrentContentType = async (
-  courseId: number,
   childrenIds: number[],
+  courseId: number,
 ) => {
   if (childrenIds.length === 0) {
     return "folder";
