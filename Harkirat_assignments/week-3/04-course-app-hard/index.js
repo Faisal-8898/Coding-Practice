@@ -1,5 +1,7 @@
 import express from "express";
 import connectDB from "./db/index.js";
+import { generateJwtToken } from "./utils/jwt.helper.js";
+import { Admin } from "./models/admin.model.js";
 const app = express();
 
 app.use(express.json());
@@ -10,8 +12,18 @@ let USERS = [];
 let COURSES = [];
 
 // Admin routes
-app.post("/admin/signup", (req, res) => {
-  const { username, password } = req.body;
+app.post("/admin/signup", async (req, res) => {
+  const admin = req.body;
+  const token = await generateJwtToken(admin);
+  admin.token = token;
+  const newAdmin = new Admin(admin);
+  try {
+    await newAdmin.save();
+  } catch (error) {
+    console.error("Admin Data Save Error", error);
+  }
+  //checking if the admin is already there in database
+
   res.sendStatus(200);
 });
 
