@@ -1,4 +1,5 @@
 import jwt from "jsonwebtoken";
+import { Admin } from "../models/admin.model.js";
 
 const generateJwtToken = (obj) => {
   return new Promise((resolve, reject) => {
@@ -16,7 +17,4 @@ const generateJwtToken = (obj) => {
     );
   });
 };
-
-const validationJwtToken = (token) => {};
-
-export { generateJwtToken, validationJwtToken };
+export { generateJwtToken };

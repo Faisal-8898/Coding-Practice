@@ -1,7 +1,10 @@
 import express from "express";
 import connectDB from "./db/index.js";
 import { generateJwtToken } from "./utils/jwt.helper.js";
+import { validationJwtToken } from "./middlewares/authjwt.js";
 import { Admin } from "./models/admin.model.js";
+import { Course } from "./models/Course.model.js";
+
 const app = express();
 
 app.use(express.json());
@@ -14,6 +17,10 @@ let COURSES = [];
 // Admin routes
 app.post("/admin/signup", async (req, res) => {
   const admin = req.body;
+  const existAdmin = Admin.findOne({ username: admin.username });
+  if (existAdmin) {
+    res.status("409").json({ message: "Admin already exists" });
+  }
   const token = await generateJwtToken(admin);
   admin.token = token;
   const newAdmin = new Admin(admin);
@@ -23,16 +30,44 @@ app.post("/admin/signup", async (req, res) => {
     console.error("Admin Data Save Error", error);
   }
   //checking if the admin is already there in database
-
-  res.sendStatus(200);
+  res.status(201).json({ message: "Admin created successfully", token });
 });
 
-app.post("/admin/login", (req, res) => {
+app.post("/admin/login", async (req, res) => {
   // logic to log in admin
+  const { username, password } = req.headers;
+  try {
+    const admin = await Admin.findOne({ username, password });
+    console.log(username, password);
+    if (!admin) {
+      return res
+        .status(404)
+        .json({ message: "Invalid Admin username or password " });
+    }
+    const token = await generateJwtToken({
+      username: admin.username,
+      password: admin.password,
+    });
+    console.log(token);
+    admin.token = token;
+    await admin.save();
+    res.sendStatus(201);
+  } catch (error) {
+    console.error("Database internal problem", error.message);
+  }
 });
 
-app.post("/admin/courses", (req, res) => {
+app.post("/admin/courses", validationJwtToken, async (req, res) => {
   // logic to create a course
+  const course = req.body;
+  const newCourse = new Course(course);
+  try {
+    await newCourse.save();
+  } catch (error) {
+    console.error("Error in Creating Course in database");
+    res.status(302).json({ message: "Couldn't save course in database" });
+  }
+  res.status(201).json({ message: "Course Created successfully" });
 });
 
 app.put("/admin/courses/:courseId", (req, res) => {
