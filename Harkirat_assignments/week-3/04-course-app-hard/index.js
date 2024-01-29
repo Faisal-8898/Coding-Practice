@@ -10,10 +10,6 @@ const app = express();
 app.use(express.json());
 connectDB();
 
-let ADMINS = [];
-let USERS = [];
-let COURSES = [];
-
 // Admin routes
 app.post("/admin/signup", async (req, res) => {
   const admin = req.body;
@@ -38,17 +34,15 @@ app.post("/admin/login", async (req, res) => {
   const { username, password } = req.headers;
   try {
     const admin = await Admin.findOne({ username, password });
-    console.log(username, password);
     if (!admin) {
       return res
-        .status(404)
+        .status(403)
         .json({ message: "Invalid Admin username or password " });
     }
     const token = await generateJwtToken({
       username: admin.username,
       password: admin.password,
     });
-    console.log(token);
     admin.token = token;
     await admin.save();
     res.sendStatus(201);
@@ -70,8 +64,15 @@ app.post("/admin/courses", validationJwtToken, async (req, res) => {
   res.status(201).json({ message: "Course Created successfully" });
 });
 
-app.put("/admin/courses/:courseId", (req, res) => {
-  // logic to edit a course
+app.put("/admin/courses/:courseId", async (req, res) => {
+  const course = await Course.findByIdAndUpdate(req.params.courseId, req.body, {
+    new: true,
+  });
+  if (course) {
+    res.status(201).json({ message: "Course updated successfully" });
+  } else {
+    res.status(404).json({ message: "Course not found" });
+  }
 });
 
 app.get("/admin/courses", (req, res) => {
