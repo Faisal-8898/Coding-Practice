@@ -1,5 +1,0 @@
-{
-  "StudentVM": null,
-  "TransferData": null,
-  "WaiverData": null
-}
