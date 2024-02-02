@@ -2,7 +2,7 @@ import { useState } from "react";
 import "./App.css";
 
 function App() {
-  const [todo, setTodo] = useState(
+  const [todo, setTodo] = useState([
     {
       title: "My first todo",
       description: "I love do somthing",
@@ -23,28 +23,27 @@ function App() {
       description: "don't do it",
       id: 987,
     },
-  );
-
-  setInterval(() => {
-    setTodo({
-      title: "hello bhai kemn achen!!",
-    });
-  }, 2000);
+  ]);
 
   return (
     <>
-      <h1>Hello boys</h1>
-      {JSON.stringify(todo)}
-      <Person firstName={"Faisal"} lastName={"Ahmed"}></Person>
+      {todo.map((todo) => {
+        return (
+          <div>
+            <Todo title={todo.title} description={todo.description}></Todo>
+            <br />
+          </div>
+        );
+      })}
     </>
   );
 }
 
-function Person(props) {
+function Todo(props) {
   return (
-    <div>
-      {props.firstName}
-      {props.lastName}
+    <div style={{ background: "red" }}>
+      {props.title}
+      {props.description}
     </div>
   );
 }
