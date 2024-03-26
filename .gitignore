@@ -131,4 +131,7 @@ dist
 
 .DS_Store
 Thumbs.db
+.cph
+.vscode
+
 ```
