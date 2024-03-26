@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ykMzwkF6J45WdMV1Qd/UIhlR4kyZ1PGaIgqOUgDGrtaErwag4MYaqysdBmH8UUPDL8XvTMW+Z1tXE1pRNsnRAg==",
+  "success": true,
+  "projectFilePath": "/Users/user/Documents/Me_and_Myself/Practice/core-learning/c#/hello/hello.csproj",
+  "expectedPackageFiles": [
+    "/Users/user/.nuget/packages/microsoft.windowsdesktop.app.ref/8.0.1/microsoft.windowsdesktop.app.ref.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
