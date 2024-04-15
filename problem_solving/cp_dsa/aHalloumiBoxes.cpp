@@ -62,27 +62,6 @@ int main() {
     } else {
       cout << "NO" << endl;
     }
-
-    /* if (k >= 2 && is_sorted(vec.begin(), vec.end())) { */
-    /*   cout << "YES" << endl; */
-    /*   continue; */
-    /* } */
-
-    /* int count = 0; */
-    /* for (int i = 0; i < n - 1; i++) { */
-    /*   if (vec[i] > vec[i + 1]) { */
-    /*     count = 1; */
-    /*   } */
-    /* } */
-    /* if (count == 1) { */
-    /*   if (k >= 2) { */
-    /*     cout << "YES" << endl; */
-    /*   } else { */
-    /*     cout << "NO" << endl; */
-    /*   } */
-    /* } else { */
-    /*   cout << "YES" << endl; */
-    /* } */
   }
   return 0;
 }
