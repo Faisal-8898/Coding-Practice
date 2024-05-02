@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FF+Dg9MgPMQdjb1m8lf2GxDSm9DwhDC6YZ4MPD08e2g8ym37oN3vlUWw6h/mllSpDWQZ97g+kWRC5oZjty676g==",
+  "success": true,
+  "projectFilePath": "/Users/user/Documents/Me_and_Myself/Practice/core-learning/c#/swappingVariables/swappingVariables.csproj",
+  "expectedPackageFiles": [
+    "/Users/user/.nuget/packages/microsoft.windowsdesktop.app.ref/8.0.1/microsoft.windowsdesktop.app.ref.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

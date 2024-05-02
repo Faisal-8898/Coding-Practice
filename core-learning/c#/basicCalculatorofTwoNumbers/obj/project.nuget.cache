@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Yx77eKlKckD6qnHxhin4AwmnujHfxvvWveh0f/SuefSR9KyiOZhcd1LtbRkNxlY5j4O6Ptdd3GNiAc1v7XX/4g==",
+  "success": true,
+  "projectFilePath": "/Users/user/Documents/Me_and_Myself/Practice/core-learning/c#/basicCalculatorofTwoNumbers/basicCalculatorofTwoNumbers.csproj",
+  "expectedPackageFiles": [
+    "/Users/user/.nuget/packages/microsoft.windowsdesktop.app.ref/8.0.1/microsoft.windowsdesktop.app.ref.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

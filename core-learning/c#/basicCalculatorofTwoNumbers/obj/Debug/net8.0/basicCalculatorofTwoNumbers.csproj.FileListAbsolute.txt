@@ -1,0 +1,15 @@
+/Users/user/Documents/Me_and_Myself/Practice/core-learning/c#/basicCalculatorofTwoNumbers/bin/Debug/net8.0/basicCalculatorofTwoNumbers
+/Users/user/Documents/Me_and_Myself/Practice/core-learning/c#/basicCalculatorofTwoNumbers/bin/Debug/net8.0/basicCalculatorofTwoNumbers.deps.json
+/Users/user/Documents/Me_and_Myself/Practice/core-learning/c#/basicCalculatorofTwoNumbers/bin/Debug/net8.0/basicCalculatorofTwoNumbers.runtimeconfig.json
+/Users/user/Documents/Me_and_Myself/Practice/core-learning/c#/basicCalculatorofTwoNumbers/bin/Debug/net8.0/basicCalculatorofTwoNumbers.dll
+/Users/user/Documents/Me_and_Myself/Practice/core-learning/c#/basicCalculatorofTwoNumbers/bin/Debug/net8.0/basicCalculatorofTwoNumbers.pdb
+/Users/user/Documents/Me_and_Myself/Practice/core-learning/c#/basicCalculatorofTwoNumbers/obj/Debug/net8.0/basicCalculatorofTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Documents/Me_and_Myself/Practice/core-learning/c#/basicCalculatorofTwoNumbers/obj/Debug/net8.0/basicCalculatorofTwoNumbers.AssemblyInfoInputs.cache
+/Users/user/Documents/Me_and_Myself/Practice/core-learning/c#/basicCalculatorofTwoNumbers/obj/Debug/net8.0/basicCalculatorofTwoNumbers.AssemblyInfo.cs
+/Users/user/Documents/Me_and_Myself/Practice/core-learning/c#/basicCalculatorofTwoNumbers/obj/Debug/net8.0/basicCalculatorofTwoNumbers.csproj.CoreCompileInputs.cache
+/Users/user/Documents/Me_and_Myself/Practice/core-learning/c#/basicCalculatorofTwoNumbers/obj/Debug/net8.0/basicCalculatorofTwoNumbers.sourcelink.json
+/Users/user/Documents/Me_and_Myself/Practice/core-learning/c#/basicCalculatorofTwoNumbers/obj/Debug/net8.0/basicCalculatorofTwoNumbers.dll
+/Users/user/Documents/Me_and_Myself/Practice/core-learning/c#/basicCalculatorofTwoNumbers/obj/Debug/net8.0/refint/basicCalculatorofTwoNumbers.dll
+/Users/user/Documents/Me_and_Myself/Practice/core-learning/c#/basicCalculatorofTwoNumbers/obj/Debug/net8.0/basicCalculatorofTwoNumbers.pdb
+/Users/user/Documents/Me_and_Myself/Practice/core-learning/c#/basicCalculatorofTwoNumbers/obj/Debug/net8.0/basicCalculatorofTwoNumbers.genruntimeconfig.cache
+/Users/user/Documents/Me_and_Myself/Practice/core-learning/c#/basicCalculatorofTwoNumbers/obj/Debug/net8.0/ref/basicCalculatorofTwoNumbers.dll

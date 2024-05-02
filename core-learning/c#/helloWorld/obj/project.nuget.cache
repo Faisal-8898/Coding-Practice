@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ut2qGkVsDa4aXtgrMFWLf64Je5qUT4t4ntaiur7vPuTIGtlz+QrSu6TDV6lJ1EZwNYmye4EACTnA/YRSNd+ENw==",
+  "success": true,
+  "projectFilePath": "/Users/user/Documents/Me_and_Myself/Practice/core-learning/c#/helloWorld/helloWorld.csproj",
+  "expectedPackageFiles": [
+    "/Users/user/.nuget/packages/microsoft.windowsdesktop.app.ref/8.0.1/microsoft.windowsdesktop.app.ref.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

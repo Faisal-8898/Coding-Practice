@@ -1,0 +1,15 @@
+/Users/user/Documents/Me_and_Myself/Practice/core-learning/c#/swappingVariables/bin/Debug/net8.0/swappingVariables
+/Users/user/Documents/Me_and_Myself/Practice/core-learning/c#/swappingVariables/bin/Debug/net8.0/swappingVariables.deps.json
+/Users/user/Documents/Me_and_Myself/Practice/core-learning/c#/swappingVariables/bin/Debug/net8.0/swappingVariables.runtimeconfig.json
+/Users/user/Documents/Me_and_Myself/Practice/core-learning/c#/swappingVariables/bin/Debug/net8.0/swappingVariables.dll
+/Users/user/Documents/Me_and_Myself/Practice/core-learning/c#/swappingVariables/bin/Debug/net8.0/swappingVariables.pdb
+/Users/user/Documents/Me_and_Myself/Practice/core-learning/c#/swappingVariables/obj/Debug/net8.0/swappingVariables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Documents/Me_and_Myself/Practice/core-learning/c#/swappingVariables/obj/Debug/net8.0/swappingVariables.AssemblyInfoInputs.cache
+/Users/user/Documents/Me_and_Myself/Practice/core-learning/c#/swappingVariables/obj/Debug/net8.0/swappingVariables.AssemblyInfo.cs
+/Users/user/Documents/Me_and_Myself/Practice/core-learning/c#/swappingVariables/obj/Debug/net8.0/swappingVariables.csproj.CoreCompileInputs.cache
+/Users/user/Documents/Me_and_Myself/Practice/core-learning/c#/swappingVariables/obj/Debug/net8.0/swappingVariables.sourcelink.json
+/Users/user/Documents/Me_and_Myself/Practice/core-learning/c#/swappingVariables/obj/Debug/net8.0/swappingVariables.dll
+/Users/user/Documents/Me_and_Myself/Practice/core-learning/c#/swappingVariables/obj/Debug/net8.0/refint/swappingVariables.dll
+/Users/user/Documents/Me_and_Myself/Practice/core-learning/c#/swappingVariables/obj/Debug/net8.0/swappingVariables.pdb
+/Users/user/Documents/Me_and_Myself/Practice/core-learning/c#/swappingVariables/obj/Debug/net8.0/swappingVariables.genruntimeconfig.cache
+/Users/user/Documents/Me_and_Myself/Practice/core-learning/c#/swappingVariables/obj/Debug/net8.0/ref/swappingVariables.dll

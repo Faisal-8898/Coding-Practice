@@ -1,0 +1,15 @@
+/Users/user/Documents/Me_and_Myself/Practice/core-learning/c#/helloWorld/bin/Debug/net8.0/helloWorld
+/Users/user/Documents/Me_and_Myself/Practice/core-learning/c#/helloWorld/bin/Debug/net8.0/helloWorld.deps.json
+/Users/user/Documents/Me_and_Myself/Practice/core-learning/c#/helloWorld/bin/Debug/net8.0/helloWorld.runtimeconfig.json
+/Users/user/Documents/Me_and_Myself/Practice/core-learning/c#/helloWorld/bin/Debug/net8.0/helloWorld.dll
+/Users/user/Documents/Me_and_Myself/Practice/core-learning/c#/helloWorld/bin/Debug/net8.0/helloWorld.pdb
+/Users/user/Documents/Me_and_Myself/Practice/core-learning/c#/helloWorld/obj/Debug/net8.0/helloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Documents/Me_and_Myself/Practice/core-learning/c#/helloWorld/obj/Debug/net8.0/helloWorld.AssemblyInfoInputs.cache
+/Users/user/Documents/Me_and_Myself/Practice/core-learning/c#/helloWorld/obj/Debug/net8.0/helloWorld.AssemblyInfo.cs
+/Users/user/Documents/Me_and_Myself/Practice/core-learning/c#/helloWorld/obj/Debug/net8.0/helloWorld.csproj.CoreCompileInputs.cache
+/Users/user/Documents/Me_and_Myself/Practice/core-learning/c#/helloWorld/obj/Debug/net8.0/helloWorld.sourcelink.json
+/Users/user/Documents/Me_and_Myself/Practice/core-learning/c#/helloWorld/obj/Debug/net8.0/helloWorld.dll
+/Users/user/Documents/Me_and_Myself/Practice/core-learning/c#/helloWorld/obj/Debug/net8.0/refint/helloWorld.dll
+/Users/user/Documents/Me_and_Myself/Practice/core-learning/c#/helloWorld/obj/Debug/net8.0/helloWorld.pdb
+/Users/user/Documents/Me_and_Myself/Practice/core-learning/c#/helloWorld/obj/Debug/net8.0/helloWorld.genruntimeconfig.cache
+/Users/user/Documents/Me_and_Myself/Practice/core-learning/c#/helloWorld/obj/Debug/net8.0/ref/helloWorld.dll
