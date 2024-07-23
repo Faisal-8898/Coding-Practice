@@ -1,0 +1,15 @@
+function sum(n) {
+  sum = 0;
+  for (let i = 0; i < n; i++) {
+    sum += i;
+  }
+  console.log(sum);
+}
+const startTime = new Date().getTime();
+
+//const startTime = new Date.getTime();
+sum(6000000000);
+
+const endtime = new Date.getTime();
+
+console.log((endTime - startTime) / 1000);
