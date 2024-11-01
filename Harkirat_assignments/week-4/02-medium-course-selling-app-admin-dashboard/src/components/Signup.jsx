@@ -1,8 +1,13 @@
 import { TextField, Typography } from "@mui/material";
 import Button from "@mui/material/Button";
 import Card from "@mui/material/Card";
+import { useState } from "react";
 
 function Signup() {
+  const [mail, setMail] = useState("");
+  const [password, setPassword] = useState("");
+  const [error, setError] = useState("");
+
   return (
     <div>
       <center

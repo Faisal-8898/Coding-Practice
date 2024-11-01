@@ -10,7 +10,9 @@ function Appbar() {
       }}
     >
       <div>
-        <Typography variant="h6">Coursera</Typography>
+        <Typography variant="h6" className="">
+          Fudemy
+        </Typography>
       </div>
       <div>
         <Button
