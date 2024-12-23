@@ -31,7 +31,7 @@ async function sendMsisdnData(msisdn, brand, simCategory) {
     if (result.freeMsisdnList && result.freeMsisdnList.length > 0) {
       result.freeMsisdnList.forEach((item) => {
         console.log(item);
-        fs.appendFileSync("robiNumbers.txt", item + "\n", "utf8");
+        fs.appendFileSync("robiNumbersnd.txt", item + "\n", "utf8");
       });
     } else {
       console.log("No free MSISDNs available.");

@@ -39,11 +39,11 @@ function processNumbers(filename) {
   console.log("Total numbers remaining:", numbers.length);
 
   // Optionally, write the processed numbers back to a file
-  fs.writeFileSync("processed.txt", numbers.join("\n"));
+  fs.writeFileSync("processedAirtel.txt", numbers.join("\n"));
 
   return numbers;
 }
 
 // Usage
-const filename = "robiNumbers.txt"; // Replace with your actual filename
+const filename = "airNumbersnd.txt"; // Replace with your actual filename
 processNumbers(filename);
