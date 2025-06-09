@@ -1,0 +1,11281 @@
+[
+  {
+    "id": 1,
+    "type": "class",
+    "code": "CSE101",
+    "sec": "01",
+    "faculty": "AT",
+    "time": "08:30 AM - 10:00 AM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 2,
+    "type": "class",
+    "code": "CSE101",
+    "sec": "02",
+    "faculty": "AT",
+    "time": "10:10 AM - 11:40 AM",
+    "days": [
+      "Tuesday",
+      "Sunday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 3,
+    "type": "class",
+    "code": "CSE101",
+    "sec": "03",
+    "faculty": "RAKIB",
+    "time": "08:30 AM - 10:00 AM",
+    "days": [
+      "Thursday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 4,
+    "type": "class",
+    "code": "CSE101",
+    "sec": "04",
+    "faculty": "RAKIB",
+    "time": "10:10 AM - 11:40 AM",
+    "days": [
+      "Thursday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 5,
+    "type": "class",
+    "code": "CSE101",
+    "sec": "05",
+    "faculty": "MSHQ",
+    "time": "03:10 PM - 04:40 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 6,
+    "type": "class",
+    "code": "CSE101",
+    "sec": "06",
+    "faculty": "MSHQ",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Wednesday",
+      "Monday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 7,
+    "type": "class",
+    "code": "CSE101",
+    "sec": "07",
+    "faculty": "DMZM",
+    "time": "03:10 PM - 04:40 PM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 8,
+    "type": "class",
+    "code": "CSE101",
+    "sec": "08",
+    "faculty": "DMZM",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Tuesday",
+      "Sunday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 9,
+    "type": "class",
+    "code": "CSE101",
+    "sec": "09",
+    "faculty": "AQUIB",
+    "time": "03:10 PM - 04:40 PM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 10,
+    "type": "class",
+    "code": "CSE101",
+    "sec": "10",
+    "faculty": "AQUIB",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Tuesday",
+      "Sunday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 11,
+    "type": "class",
+    "code": "CSE101",
+    "sec": "11",
+    "faculty": "TZE",
+    "time": "03:10 PM - 04:40 PM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 12,
+    "type": "class",
+    "code": "CSE101",
+    "sec": "12",
+    "faculty": "TZE",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Tuesday",
+      "Sunday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 13,
+    "type": "class",
+    "code": "CSE101",
+    "sec": "13",
+    "faculty": "DNMH",
+    "time": "08:30 AM - 10:00 AM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 14,
+    "type": "class",
+    "code": "CSE101",
+    "sec": "14",
+    "faculty": "DNMH",
+    "time": "10:10 AM - 11:40 AM",
+    "days": [
+      "Wednesday",
+      "Monday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 15,
+    "type": "class",
+    "code": "CSE101",
+    "sec": "15",
+    "faculty": "RUTBA",
+    "time": "03:10 PM - 04:40 PM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 16,
+    "type": "class",
+    "code": "CSE101",
+    "sec": "16",
+    "faculty": "RUTBA",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Tuesday",
+      "Sunday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 17,
+    "type": "class",
+    "code": "CSE101",
+    "sec": "17",
+    "faculty": "REZVI",
+    "time": "11:50 AM - 01:20 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 18,
+    "type": "class",
+    "code": "CSE101",
+    "sec": "18",
+    "faculty": "REZVI",
+    "time": "01:30 PM - 03:00 PM",
+    "days": [
+      "Wednesday",
+      "Monday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 19,
+    "type": "class",
+    "code": "CSE101",
+    "sec": "19",
+    "faculty": "NRST",
+    "time": "08:30 AM - 10:00 AM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 20,
+    "type": "class",
+    "code": "CSE101",
+    "sec": "20",
+    "faculty": "NRST",
+    "time": "10:10 AM - 11:40 AM",
+    "days": [
+      "Thursday",
+      "Sunday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 21,
+    "type": "class",
+    "code": "CSE101",
+    "sec": "21",
+    "faculty": "RRD",
+    "time": "08:30 AM - 10:00 AM",
+    "days": [
+      "Tuesday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 22,
+    "type": "class",
+    "code": "CSE101",
+    "sec": "22",
+    "faculty": "RRD",
+    "time": "10:10 AM - 11:40 AM",
+    "days": [
+      "Thursday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 23,
+    "type": "class",
+    "code": "CSE101",
+    "sec": "23",
+    "faculty": "TBA",
+    "time": "08:30 AM - 10:00 AM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 24,
+    "type": "class",
+    "code": "CSE101",
+    "sec": "24",
+    "faculty": "TBA",
+    "time": "10:10 AM - 11:40 AM",
+    "days": [
+      "Tuesday",
+      "Sunday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 25,
+    "type": "class",
+    "code": "CSE101",
+    "sec": "25",
+    "faculty": "TBA",
+    "time": "08:30 AM - 10:00 AM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 26,
+    "type": "class",
+    "code": "CSE101",
+    "sec": "26",
+    "faculty": "TBA",
+    "time": "10:10 AM - 11:40 AM",
+    "days": [
+      "Thursday",
+      "Sunday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 27,
+    "type": "class",
+    "code": "CSE101",
+    "sec": "27",
+    "faculty": "TBA",
+    "time": "08:30 AM - 10:00 AM",
+    "days": [
+      "Tuesday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 28,
+    "type": "class",
+    "code": "CSE101",
+    "sec": "28",
+    "faculty": "TBA",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Thursday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 29,
+    "type": "class",
+    "code": "CSE101",
+    "sec": "29",
+    "faculty": "TBA",
+    "time": "03:10 PM - 04:40 PM",
+    "days": [
+      "Thursday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 30,
+    "type": "class",
+    "code": "CSE101",
+    "sec": "30",
+    "faculty": "TBA",
+    "time": "03:10 PM - 04:40 PM",
+    "days": [
+      "Tuesday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 31,
+    "type": "class",
+    "code": "CSE101",
+    "sec": "31",
+    "faculty": "TBA",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Thursday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 32,
+    "type": "class",
+    "code": "CSE102",
+    "sec": "01",
+    "faculty": "TBA",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Wednesday",
+      "Monday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 33,
+    "type": "class",
+    "code": "CSE103",
+    "sec": "01",
+    "faculty": "TJ",
+    "time": "01:30 PM - 03:00 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 34,
+    "type": "lab",
+    "code": "CSE103",
+    "sec": "01",
+    "faculty": "TJ",
+    "time": "03:10 PM - 06:10 PM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 35,
+    "type": "lab",
+    "code": "CSE103",
+    "sec": "02",
+    "faculty": "TJ",
+    "time": "03:10 PM - 06:10 PM",
+    "days": [
+      "Tuesday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 36,
+    "type": "class",
+    "code": "CSE103",
+    "sec": "02",
+    "faculty": "TJ",
+    "time": "03:10 PM - 04:40 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 37,
+    "type": "class",
+    "code": "CSE103",
+    "sec": "03",
+    "faculty": "MI",
+    "time": "10:10 AM - 11:40 AM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 38,
+    "type": "lab",
+    "code": "CSE103",
+    "sec": "03",
+    "faculty": "MI",
+    "time": "10:10 AM - 01:10 PM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 39,
+    "type": "lab",
+    "code": "CSE103",
+    "sec": "04",
+    "faculty": "MI",
+    "time": "10:10 AM - 01:10 PM",
+    "days": [
+      "Tuesday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 40,
+    "type": "class",
+    "code": "CSE103",
+    "sec": "04",
+    "faculty": "MI",
+    "time": "11:50 AM - 01:20 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 41,
+    "type": "class",
+    "code": "CSE103",
+    "sec": "05",
+    "faculty": "DAHF",
+    "time": "01:30 PM - 03:00 PM",
+    "days": [
+      "Thursday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 42,
+    "type": "lab",
+    "code": "CSE103",
+    "sec": "05",
+    "faculty": "DAHF",
+    "time": "04:50 PM - 07:50 PM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 43,
+    "type": "lab",
+    "code": "CSE103",
+    "sec": "06",
+    "faculty": "DAHF",
+    "time": "04:50 PM - 07:50 PM",
+    "days": [
+      "Tuesday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 44,
+    "type": "class",
+    "code": "CSE103",
+    "sec": "06",
+    "faculty": "DAHF",
+    "time": "11:50 AM - 01:20 PM",
+    "days": [
+      "Thursday",
+      "Sunday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 45,
+    "type": "lab",
+    "code": "CSE103",
+    "sec": "07",
+    "faculty": "MRJ",
+    "time": "01:30 PM - 04:30 PM",
+    "days": [
+      "Tuesday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 46,
+    "type": "class",
+    "code": "CSE103",
+    "sec": "07",
+    "faculty": "MRJ",
+    "time": "01:30 PM - 03:00 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 47,
+    "type": "lab",
+    "code": "CSE103",
+    "sec": "08",
+    "faculty": "RIFAT",
+    "time": "10:10 AM - 01:10 PM",
+    "days": [
+      "Monday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 48,
+    "type": "class",
+    "code": "CSE103",
+    "sec": "08",
+    "faculty": "RIFAT",
+    "time": "01:30 PM - 03:00 PM",
+    "days": [
+      "Tuesday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 49,
+    "type": "class",
+    "code": "CSE103",
+    "sec": "09",
+    "faculty": "NISHAT",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 50,
+    "type": "class",
+    "code": "CSE103",
+    "sec": "09",
+    "faculty": "NISHAT",
+    "time": "01:30 PM - 03:00 PM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 51,
+    "type": "class",
+    "code": "CSE103",
+    "sec": "10",
+    "faculty": "FZRN",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 52,
+    "type": "lab",
+    "code": "CSE103",
+    "sec": "10",
+    "faculty": "FZRN",
+    "time": "10:10 AM - 01:10 PM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 53,
+    "type": "lab",
+    "code": "CSE103",
+    "sec": "11",
+    "faculty": "FZRN",
+    "time": "10:10 AM - 01:10 PM",
+    "days": [
+      "Wednesday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 54,
+    "type": "class",
+    "code": "CSE103",
+    "sec": "11",
+    "faculty": "FZRN",
+    "time": "03:10 PM - 04:40 PM",
+    "days": [
+      "Thursday",
+      "Sunday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 55,
+    "type": "class",
+    "code": "CSE103",
+    "sec": "12",
+    "faculty": "PC",
+    "time": "08:30 AM - 10:00 AM",
+    "days": [
+      "Tuesday",
+      "Sunday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 56,
+    "type": "lab",
+    "code": "CSE103",
+    "sec": "12",
+    "faculty": "PC",
+    "time": "04:50 PM - 07:50 PM",
+    "days": [
+      "Monday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 57,
+    "type": "lab",
+    "code": "CSE103",
+    "sec": "13",
+    "faculty": "PC",
+    "time": "01:30 PM - 04:30 PM",
+    "days": [
+      "Tuesday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 58,
+    "type": "class",
+    "code": "CSE103",
+    "sec": "13",
+    "faculty": "PC",
+    "time": "10:10 AM - 11:40 AM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 59,
+    "type": "lab",
+    "code": "CSE103",
+    "sec": "14",
+    "faculty": "SAJEEB",
+    "time": "04:50 PM - 07:50 PM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 60,
+    "type": "class",
+    "code": "CSE103",
+    "sec": "14",
+    "faculty": "SAJEEB",
+    "time": "01:30 PM - 03:00 PM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 61,
+    "type": "lab",
+    "code": "CSE103",
+    "sec": "15",
+    "faculty": "SAJEEB",
+    "time": "04:50 PM - 07:50 PM",
+    "days": [
+      "Tuesday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 62,
+    "type": "class",
+    "code": "CSE103",
+    "sec": "15",
+    "faculty": "SAJEEB",
+    "time": "03:10 PM - 04:40 PM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 63,
+    "type": "class",
+    "code": "CSE103",
+    "sec": "16",
+    "faculty": "KMMU",
+    "time": "01:30 PM - 03:00 PM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 64,
+    "type": "lab",
+    "code": "CSE103",
+    "sec": "16",
+    "faculty": "KMMU",
+    "time": "04:50 PM - 07:50 PM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 65,
+    "type": "class",
+    "code": "CSE103",
+    "sec": "17",
+    "faculty": "KMMU",
+    "time": "03:10 PM - 04:40 PM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 66,
+    "type": "lab",
+    "code": "CSE103",
+    "sec": "17",
+    "faculty": "KMMU",
+    "time": "04:50 PM - 07:50 PM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 67,
+    "type": "class",
+    "code": "CSE103",
+    "sec": "18",
+    "faculty": "MAHCY",
+    "time": "08:30 AM - 10:00 AM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 68,
+    "type": "lab",
+    "code": "CSE103",
+    "sec": "18",
+    "faculty": "MAHCY",
+    "time": "01:30 PM - 04:30 PM",
+    "days": [
+      "Tuesday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 69,
+    "type": "lab",
+    "code": "CSE103",
+    "sec": "19",
+    "faculty": "TBA",
+    "time": "08:00 AM - 11:00 AM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 70,
+    "type": "class",
+    "code": "CSE103",
+    "sec": "19",
+    "faculty": "TBA",
+    "time": "08:30 AM - 10:00 AM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 71,
+    "type": "class",
+    "code": "CSE103",
+    "sec": "20",
+    "faculty": "TBA",
+    "time": "08:30 AM - 10:00 AM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 72,
+    "type": "lab",
+    "code": "CSE103",
+    "sec": "20",
+    "faculty": "TBA",
+    "time": "04:50 PM - 06:50 PM",
+    "days": [
+      "Monday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 73,
+    "type": "lab",
+    "code": "CSE103",
+    "sec": "21",
+    "faculty": "TBA",
+    "time": "08:00 AM - 10:00 AM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 74,
+    "type": "class",
+    "code": "CSE103",
+    "sec": "21",
+    "faculty": "TBA",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 75,
+    "type": "class",
+    "code": "CSE103",
+    "sec": "22",
+    "faculty": "TBA",
+    "time": "08:30 AM - 10:00 AM",
+    "days": [
+      "Tuesday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 76,
+    "type": "lab",
+    "code": "CSE103",
+    "sec": "22",
+    "faculty": "TBA",
+    "time": "08:00 AM - 10:00 AM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 77,
+    "type": "lab",
+    "code": "CSE103",
+    "sec": "23",
+    "faculty": "TBA",
+    "time": "04:50 PM - 07:50 PM",
+    "days": [
+      "Wednesday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 78,
+    "type": "class",
+    "code": "CSE103",
+    "sec": "23",
+    "faculty": "TBA",
+    "time": "03:10 PM - 04:40 PM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 79,
+    "type": "class",
+    "code": "CSE103",
+    "sec": "24",
+    "faculty": "TBA",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Tuesday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 80,
+    "type": "lab",
+    "code": "CSE103",
+    "sec": "24",
+    "faculty": "TBA",
+    "time": "08:00 AM - 10:00 AM",
+    "days": [
+      "Wednesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 81,
+    "type": "class",
+    "code": "CSE103",
+    "sec": "25",
+    "faculty": "TBA",
+    "time": "03:10 PM - 04:40 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 82,
+    "type": "lab",
+    "code": "CSE103",
+    "sec": "25",
+    "faculty": "TBA",
+    "time": "08:00 AM - 11:00 AM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 83,
+    "type": "class",
+    "code": "CSE106",
+    "sec": "01",
+    "faculty": "MHAK",
+    "time": "10:10 AM - 11:40 AM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 84,
+    "type": "class",
+    "code": "CSE106",
+    "sec": "02",
+    "faculty": "MHAK",
+    "time": "01:30 PM - 03:00 PM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 85,
+    "type": "class",
+    "code": "CSE106",
+    "sec": "03",
+    "faculty": "MHAK",
+    "time": "10:10 AM - 11:40 AM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 86,
+    "type": "class",
+    "code": "CSE106",
+    "sec": "04",
+    "faculty": "DSU",
+    "time": "03:10 PM - 04:40 PM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 87,
+    "type": "class",
+    "code": "CSE106",
+    "sec": "05",
+    "faculty": "DSU",
+    "time": "08:30 AM - 10:00 AM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 88,
+    "type": "class",
+    "code": "CSE106",
+    "sec": "06",
+    "faculty": "AASR",
+    "time": "01:30 PM - 03:00 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 89,
+    "type": "class",
+    "code": "CSE106",
+    "sec": "07",
+    "faculty": "AASR",
+    "time": "03:10 PM - 04:10 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 60
+  },
+  {
+    "id": 90,
+    "type": "class",
+    "code": "CSE106",
+    "sec": "08",
+    "faculty": "SDNA",
+    "time": "11:50 AM - 01:20 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 91,
+    "type": "class",
+    "code": "CSE106",
+    "sec": "09",
+    "faculty": "SDNA",
+    "time": "01:30 PM - 03:00 PM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 92,
+    "type": "lab",
+    "code": "CSE106",
+    "sec": "10",
+    "faculty": "SDNA",
+    "time": "11:20 AM - 01:20 PM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 93,
+    "type": "class",
+    "code": "CSE106",
+    "sec": "10",
+    "faculty": "SDNA",
+    "time": "11:50 AM - 01:20 PM",
+    "days": [
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 94,
+    "type": "class",
+    "code": "CSE106",
+    "sec": "11",
+    "faculty": "MAHCY",
+    "time": "11:50 AM - 01:20 PM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 95,
+    "type": "class",
+    "code": "CSE106",
+    "sec": "12",
+    "faculty": "MAHCY",
+    "time": "03:10 PM - 04:40 PM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 96,
+    "type": "class",
+    "code": "CSE106",
+    "sec": "13",
+    "faculty": "TBA",
+    "time": "03:10 PM - 04:40 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 97,
+    "type": "class",
+    "code": "CSE106",
+    "sec": "14",
+    "faculty": "TBA",
+    "time": "08:30 AM - 10:00 AM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 98,
+    "type": "class",
+    "code": "CSE106",
+    "sec": "15",
+    "faculty": "TBA",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 99,
+    "type": "class",
+    "code": "CSE106",
+    "sec": "16",
+    "faculty": "TBA",
+    "time": "08:30 AM - 10:00 AM",
+    "days": [
+      "Tuesday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 100,
+    "type": "class",
+    "code": "CSE106",
+    "sec": "17",
+    "faculty": "TBA",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Tuesday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 101,
+    "type": "class",
+    "code": "CSE106",
+    "sec": "18",
+    "faculty": "TBA",
+    "time": "08:30 AM - 10:00 AM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 102,
+    "type": "class",
+    "code": "CSE106",
+    "sec": "19",
+    "faculty": "TBA",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 103,
+    "type": "class",
+    "code": "CSE106",
+    "sec": "20",
+    "faculty": "TBA",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 104,
+    "type": "class",
+    "code": "CSE108",
+    "sec": "01",
+    "faculty": "RIFAT",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 105,
+    "type": "lab",
+    "code": "CSE108",
+    "sec": "01",
+    "faculty": "RIFAT",
+    "time": "10:10 AM - 12:10 PM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 106,
+    "type": "lab",
+    "code": "CSE108",
+    "sec": "02",
+    "faculty": "RIFAT",
+    "time": "10:10 AM - 12:10 PM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 107,
+    "type": "class",
+    "code": "CSE108",
+    "sec": "02",
+    "faculty": "RIFAT",
+    "time": "03:10 PM - 04:40 PM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 108,
+    "type": "class",
+    "code": "CSE108",
+    "sec": "03",
+    "faculty": "TBA",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Monday",
+      "Wednesday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 109,
+    "type": "lab",
+    "code": "CSE110",
+    "sec": "01",
+    "faculty": "DAKP",
+    "time": "08:00 AM - 11:00 AM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 110,
+    "type": "class",
+    "code": "CSE110",
+    "sec": "01",
+    "faculty": "DAKP",
+    "time": "10:10 AM - 11:40 AM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 111,
+    "type": "class",
+    "code": "CSE110",
+    "sec": "02",
+    "faculty": "DAKP",
+    "time": "11:50 AM - 01:20 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 112,
+    "type": "lab",
+    "code": "CSE110",
+    "sec": "02",
+    "faculty": "DAKP",
+    "time": "11:50 AM - 02:50 PM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 113,
+    "type": "lab",
+    "code": "CSE110",
+    "sec": "03",
+    "faculty": "DSU",
+    "time": "10:10 AM - 01:10 PM",
+    "days": [
+      "Wednesday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 114,
+    "type": "class",
+    "code": "CSE110",
+    "sec": "03",
+    "faculty": "DSU",
+    "time": "01:30 PM - 03:00 PM",
+    "days": [
+      "Tuesday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 115,
+    "type": "class",
+    "code": "CSE110",
+    "sec": "04",
+    "faculty": "TM",
+    "time": "11:50 AM - 01:20 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 116,
+    "type": "lab",
+    "code": "CSE110",
+    "sec": "04",
+    "faculty": "TM",
+    "time": "10:10 AM - 01:10 PM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 117,
+    "type": "lab",
+    "code": "CSE110",
+    "sec": "05",
+    "faculty": "IMRAN",
+    "time": "10:10 AM - 01:10 PM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 118,
+    "type": "class",
+    "code": "CSE110",
+    "sec": "05",
+    "faculty": "IMRAN",
+    "time": "11:50 AM - 01:20 PM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 119,
+    "type": "class",
+    "code": "CSE110",
+    "sec": "06",
+    "faculty": "SDIS",
+    "time": "10:10 AM - 11:40 AM",
+    "days": [
+      "Tuesday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 120,
+    "type": "lab",
+    "code": "CSE110",
+    "sec": "06",
+    "faculty": "SDIS",
+    "time": "04:50 PM - 07:50 PM",
+    "days": [
+      "Monday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 121,
+    "type": "class",
+    "code": "CSE110",
+    "sec": "07",
+    "faculty": "SDNA",
+    "time": "03:10 PM - 04:40 PM",
+    "days": [
+      "Tuesday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 122,
+    "type": "lab",
+    "code": "CSE110",
+    "sec": "07",
+    "faculty": "SDNA",
+    "time": "03:10 PM - 06:10 PM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 123,
+    "type": "class",
+    "code": "CSE110",
+    "sec": "08",
+    "faculty": "FZRN",
+    "time": "08:30 AM - 10:00 AM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 124,
+    "type": "lab",
+    "code": "CSE110",
+    "sec": "08",
+    "faculty": "FZRN",
+    "time": "04:50 PM - 07:50 PM",
+    "days": [
+      "Tuesday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 125,
+    "type": "class",
+    "code": "CSE110",
+    "sec": "09",
+    "faculty": "ARIJIT",
+    "time": "03:10 PM - 04:40 PM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 126,
+    "type": "lab",
+    "code": "CSE110",
+    "sec": "09",
+    "faculty": "ARIJIT",
+    "time": "04:50 PM - 07:50 PM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 127,
+    "type": "lab",
+    "code": "CSE110",
+    "sec": "10",
+    "faculty": "SUDDIN",
+    "time": "04:50 PM - 07:50 PM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 128,
+    "type": "class",
+    "code": "CSE110",
+    "sec": "10",
+    "faculty": "SUDDIN",
+    "time": "03:10 PM - 04:40 PM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 129,
+    "type": "lab",
+    "code": "CSE110",
+    "sec": "11",
+    "faculty": "TBA",
+    "time": "04:50 PM - 07:50 PM",
+    "days": [
+      "Wednesday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 130,
+    "type": "class",
+    "code": "CSE110",
+    "sec": "11",
+    "faculty": "TBA",
+    "time": "03:10 PM - 04:40 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 131,
+    "type": "lab",
+    "code": "CSE110",
+    "sec": "12",
+    "faculty": "TBA",
+    "time": "11:50 AM - 02:50 PM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 132,
+    "type": "class",
+    "code": "CSE110",
+    "sec": "12",
+    "faculty": "TBA",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 133,
+    "type": "lab",
+    "code": "CSE110",
+    "sec": "13",
+    "faculty": "TBA",
+    "time": "11:50 AM - 02:50 PM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 134,
+    "type": "class",
+    "code": "CSE110",
+    "sec": "13",
+    "faculty": "TBA",
+    "time": "08:30 AM - 10:00 AM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 135,
+    "type": "class",
+    "code": "CSE110",
+    "sec": "14",
+    "faculty": "TBA",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Tuesday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 136,
+    "type": "lab",
+    "code": "CSE110",
+    "sec": "14",
+    "faculty": "TBA",
+    "time": "11:50 AM - 02:50 PM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 137,
+    "type": "lab",
+    "code": "CSE110",
+    "sec": "15",
+    "faculty": "TBA",
+    "time": "11:50 AM - 02:50 PM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 138,
+    "type": "class",
+    "code": "CSE110",
+    "sec": "15",
+    "faculty": "TBA",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 139,
+    "type": "lab",
+    "code": "CSE200",
+    "sec": "01",
+    "faculty": "IMRAN",
+    "time": "08:00 AM - 10:00 AM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 140,
+    "type": "lab",
+    "code": "CSE200",
+    "sec": "02",
+    "faculty": "SDIS",
+    "time": "08:00 AM - 10:00 AM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 141,
+    "type": "lab",
+    "code": "CSE200",
+    "sec": "03",
+    "faculty": "KHALID",
+    "time": "10:10 AM - 12:10 PM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 142,
+    "type": "lab",
+    "code": "CSE200",
+    "sec": "04",
+    "faculty": "KHALID",
+    "time": "01:30 PM - 03:30 PM",
+    "days": [
+      "Monday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 143,
+    "type": "lab",
+    "code": "CSE200",
+    "sec": "05",
+    "faculty": "ANIKA",
+    "time": "01:30 PM - 03:30 PM",
+    "days": [
+      "Monday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 144,
+    "type": "lab",
+    "code": "CSE200",
+    "sec": "06",
+    "faculty": "SDNA",
+    "time": "08:00 AM - 10:00 AM",
+    "days": [
+      "Wednesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 145,
+    "type": "lab",
+    "code": "CSE200",
+    "sec": "07",
+    "faculty": "NISHAT",
+    "time": "04:50 PM - 06:50 PM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 146,
+    "type": "lab",
+    "code": "CSE200",
+    "sec": "08",
+    "faculty": "RIFAT",
+    "time": "01:30 PM - 03:30 PM",
+    "days": [
+      "Wednesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 147,
+    "type": "lab",
+    "code": "CSE200",
+    "sec": "09",
+    "faculty": "MAHCY",
+    "time": "01:30 PM - 03:30 PM",
+    "days": [
+      "Wednesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 148,
+    "type": "lab",
+    "code": "CSE200",
+    "sec": "10",
+    "faculty": "ARMAN",
+    "time": "01:30 PM - 03:30 PM",
+    "days": [
+      "Monday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 149,
+    "type": "lab",
+    "code": "CSE200",
+    "sec": "11",
+    "faculty": "SABBIR",
+    "time": "08:00 AM - 10:00 AM",
+    "days": [
+      "Monday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 150,
+    "type": "lab",
+    "code": "CSE200",
+    "sec": "12",
+    "faculty": "RABEA",
+    "time": "01:30 PM - 03:30 PM",
+    "days": [
+      "Monday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 151,
+    "type": "lab",
+    "code": "CSE200",
+    "sec": "13",
+    "faculty": "MOON",
+    "time": "10:10 AM - 12:10 PM",
+    "days": [
+      "Wednesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 152,
+    "type": "lab",
+    "code": "CSE200",
+    "sec": "14",
+    "faculty": "YS",
+    "time": "10:10 AM - 12:10 PM",
+    "days": [
+      "Tuesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 153,
+    "type": "lab",
+    "code": "CSE200",
+    "sec": "15",
+    "faculty": "TBA",
+    "time": "08:00 AM - 10:00 AM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 154,
+    "type": "class",
+    "code": "CSE207",
+    "sec": "01",
+    "faculty": "DAKP",
+    "time": "11:50 AM - 01:20 PM",
+    "days": [
+      "Tuesday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 155,
+    "type": "lab",
+    "code": "CSE207",
+    "sec": "01",
+    "faculty": "DAKP",
+    "time": "01:30 PM - 03:30 PM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 156,
+    "type": "lab",
+    "code": "CSE207",
+    "sec": "02",
+    "faculty": "ATIQ",
+    "time": "01:30 PM - 03:30 PM",
+    "days": [
+      "Tuesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 157,
+    "type": "class",
+    "code": "CSE207",
+    "sec": "02",
+    "faculty": "ATIQ",
+    "time": "11:50 AM - 01:20 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 158,
+    "type": "class",
+    "code": "CSE207",
+    "sec": "03",
+    "faculty": "ATIQ",
+    "time": "01:30 PM - 03:00 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 159,
+    "type": "lab",
+    "code": "CSE207",
+    "sec": "03",
+    "faculty": "ATIQ",
+    "time": "04:50 PM - 06:50 PM",
+    "days": [
+      "Tuesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 160,
+    "type": "lab",
+    "code": "CSE207",
+    "sec": "04",
+    "faculty": "DHMAI",
+    "time": "04:50 PM - 06:50 PM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 161,
+    "type": "class",
+    "code": "CSE207",
+    "sec": "04",
+    "faculty": "DHMAI",
+    "time": "01:30 PM - 03:00 PM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 162,
+    "type": "class",
+    "code": "CSE207",
+    "sec": "05",
+    "faculty": "DHMAI",
+    "time": "03:10 PM - 04:40 PM",
+    "days": [
+      "Tuesday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 163,
+    "type": "lab",
+    "code": "CSE207",
+    "sec": "05",
+    "faculty": "DHMAI",
+    "time": "04:50 PM - 06:50 PM",
+    "days": [
+      "Wednesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 164,
+    "type": "class",
+    "code": "CSE207",
+    "sec": "06",
+    "faculty": "TM",
+    "time": "10:10 AM - 11:40 AM",
+    "days": [
+      "Tuesday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 165,
+    "type": "lab",
+    "code": "CSE207",
+    "sec": "06",
+    "faculty": "TM",
+    "time": "01:30 PM - 03:30 PM",
+    "days": [
+      "Monday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 166,
+    "type": "lab",
+    "code": "CSE207",
+    "sec": "07",
+    "faculty": "TM",
+    "time": "01:30 PM - 03:30 PM",
+    "days": [
+      "Wednesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 167,
+    "type": "class",
+    "code": "CSE207",
+    "sec": "07",
+    "faculty": "TM",
+    "time": "11:50 AM - 01:20 PM",
+    "days": [
+      "Thursday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 168,
+    "type": "class",
+    "code": "CSE207",
+    "sec": "08",
+    "faculty": "AASR",
+    "time": "08:30 AM - 10:00 AM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 169,
+    "type": "lab",
+    "code": "CSE207",
+    "sec": "08",
+    "faculty": "AASR",
+    "time": "08:00 AM - 10:00 AM",
+    "days": [
+      "Tuesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 170,
+    "type": "lab",
+    "code": "CSE207",
+    "sec": "09",
+    "faculty": "AASR",
+    "time": "10:10 AM - 12:10 PM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 171,
+    "type": "class",
+    "code": "CSE207",
+    "sec": "09",
+    "faculty": "AASR",
+    "time": "10:10 AM - 11:40 AM",
+    "days": [
+      "Tuesday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 172,
+    "type": "lab",
+    "code": "CSE207",
+    "sec": "10",
+    "faculty": "MMLI",
+    "time": "04:50 PM - 06:50 PM",
+    "days": [
+      "Monday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 173,
+    "type": "class",
+    "code": "CSE207",
+    "sec": "10",
+    "faculty": "MMLI",
+    "time": "01:30 PM - 03:00 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 174,
+    "type": "lab",
+    "code": "CSE207",
+    "sec": "11",
+    "faculty": "MMLI",
+    "time": "04:50 PM - 06:50 PM",
+    "days": [
+      "Wednesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 175,
+    "type": "class",
+    "code": "CSE207",
+    "sec": "11",
+    "faculty": "MMLI",
+    "time": "03:10 PM - 04:40 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 176,
+    "type": "class",
+    "code": "CSE207",
+    "sec": "12",
+    "faculty": "PC",
+    "time": "01:30 PM - 03:00 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 177,
+    "type": "lab",
+    "code": "CSE207",
+    "sec": "12",
+    "faculty": "PC",
+    "time": "10:10 AM - 12:10 PM",
+    "days": [
+      "Wednesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 178,
+    "type": "class",
+    "code": "CSE207",
+    "sec": "13",
+    "faculty": "TBA",
+    "time": "08:30 AM - 10:00 AM",
+    "days": [
+      "Thursday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 179,
+    "type": "lab",
+    "code": "CSE207",
+    "sec": "13",
+    "faculty": "TBA",
+    "time": "08:00 AM - 10:00 AM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 180,
+    "type": "class",
+    "code": "CSE207",
+    "sec": "14",
+    "faculty": "TBA",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Tuesday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 181,
+    "type": "class",
+    "code": "CSE207",
+    "sec": "14",
+    "faculty": "TBA",
+    "time": "11:50 AM - 12:50 PM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 60
+  },
+  {
+    "id": 182,
+    "type": "lab",
+    "code": "CSE207",
+    "sec": "15",
+    "faculty": "TBA",
+    "time": "01:30 PM - 03:30 PM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 183,
+    "type": "class",
+    "code": "CSE207",
+    "sec": "15",
+    "faculty": "TBA",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Tuesday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 184,
+    "type": "lab",
+    "code": "CSE209",
+    "sec": "01",
+    "faculty": "SJ",
+    "time": "01:30 PM - 03:30 PM",
+    "days": [
+      "Tuesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 185,
+    "type": "class",
+    "code": "CSE209",
+    "sec": "01",
+    "faculty": "SJ",
+    "time": "11:50 AM - 01:20 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 186,
+    "type": "class",
+    "code": "CSE209",
+    "sec": "02",
+    "faculty": "ALI",
+    "time": "01:30 PM - 03:00 PM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 187,
+    "type": "lab",
+    "code": "CSE209",
+    "sec": "02",
+    "faculty": "ALI",
+    "time": "01:30 PM - 03:30 PM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 188,
+    "type": "lab",
+    "code": "CSE209",
+    "sec": "03",
+    "faculty": "SHK",
+    "time": "04:50 PM - 06:50 PM",
+    "days": [
+      "Wednesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 189,
+    "type": "class",
+    "code": "CSE209",
+    "sec": "03",
+    "faculty": "SHK",
+    "time": "01:30 PM - 03:00 PM",
+    "days": [
+      "Tuesday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 190,
+    "type": "class",
+    "code": "CSE209",
+    "sec": "04",
+    "faculty": "SHK",
+    "time": "03:10 PM - 04:40 PM",
+    "days": [
+      "Tuesday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 191,
+    "type": "lab",
+    "code": "CSE209",
+    "sec": "04",
+    "faculty": "SHK",
+    "time": "10:10 AM - 12:00 PM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 110
+  },
+  {
+    "id": 192,
+    "type": "lab",
+    "code": "CSE209",
+    "sec": "05",
+    "faculty": "MKN",
+    "time": "01:30 PM - 03:30 PM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 193,
+    "type": "class",
+    "code": "CSE209",
+    "sec": "05",
+    "faculty": "MKN",
+    "time": "10:10 AM - 11:40 AM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 194,
+    "type": "class",
+    "code": "CSE209",
+    "sec": "06",
+    "faculty": "DOF",
+    "time": "01:30 PM - 03:00 PM",
+    "days": [
+      "Tuesday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 195,
+    "type": "lab",
+    "code": "CSE209",
+    "sec": "06",
+    "faculty": "DOF",
+    "time": "04:50 PM - 06:50 PM",
+    "days": [
+      "Tuesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 196,
+    "type": "lab",
+    "code": "CSE209",
+    "sec": "07",
+    "faculty": "DOF",
+    "time": "04:50 PM - 06:50 PM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 197,
+    "type": "class",
+    "code": "CSE209",
+    "sec": "07",
+    "faculty": "DOF",
+    "time": "03:10 PM - 04:40 PM",
+    "days": [
+      "Tuesday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 198,
+    "type": "class",
+    "code": "CSE209",
+    "sec": "08",
+    "faculty": "DSMU",
+    "time": "01:30 PM - 03:00 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 199,
+    "type": "lab",
+    "code": "CSE209",
+    "sec": "08",
+    "faculty": "DSMU",
+    "time": "04:50 PM - 06:50 PM",
+    "days": [
+      "Monday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 200,
+    "type": "class",
+    "code": "CSE209",
+    "sec": "09",
+    "faculty": "DSMU",
+    "time": "03:10 PM - 04:40 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 201,
+    "type": "lab",
+    "code": "CSE209",
+    "sec": "09",
+    "faculty": "DSMU",
+    "time": "04:50 PM - 06:50 PM",
+    "days": [
+      "Wednesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 202,
+    "type": "class",
+    "code": "CSE209",
+    "sec": "10",
+    "faculty": "SAMIA",
+    "time": "08:30 AM - 10:00 AM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 203,
+    "type": "lab",
+    "code": "CSE209",
+    "sec": "10",
+    "faculty": "SAMIA",
+    "time": "08:00 AM - 10:00 AM",
+    "days": [
+      "Tuesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 204,
+    "type": "lab",
+    "code": "CSE209",
+    "sec": "11",
+    "faculty": "SAMIA",
+    "time": "10:10 AM - 12:10 PM",
+    "days": [
+      "Tuesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 205,
+    "type": "class",
+    "code": "CSE209",
+    "sec": "11",
+    "faculty": "SAMIA",
+    "time": "10:10 AM - 11:40 AM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 206,
+    "type": "lab",
+    "code": "CSE209",
+    "sec": "12",
+    "faculty": "TBA",
+    "time": "08:00 AM - 10:00 AM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 207,
+    "type": "class",
+    "code": "CSE209",
+    "sec": "12",
+    "faculty": "TBA",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 208,
+    "type": "class",
+    "code": "CSE209",
+    "sec": "13",
+    "faculty": "TBA",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Thursday",
+      "Sunday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 209,
+    "type": "class",
+    "code": "CSE209",
+    "sec": "13",
+    "faculty": "TBA",
+    "time": "03:50 PM - 05:05 PM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 75
+  },
+  {
+    "id": 210,
+    "type": "class",
+    "code": "CSE209",
+    "sec": "14",
+    "faculty": "TBA",
+    "time": "08:30 AM - 10:00 AM",
+    "days": [
+      "Thursday",
+      "Sunday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 211,
+    "type": "lab",
+    "code": "CSE209",
+    "sec": "14",
+    "faculty": "TBA",
+    "time": "08:00 AM - 10:00 AM",
+    "days": [
+      "Monday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 212,
+    "type": "class",
+    "code": "CSE209",
+    "sec": "15",
+    "faculty": "TBA",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Thursday",
+      "Sunday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 213,
+    "type": "lab",
+    "code": "CSE209",
+    "sec": "15",
+    "faculty": "TBA",
+    "time": "01:30 PM - 03:30 PM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 214,
+    "type": "lab",
+    "code": "CSE227",
+    "sec": "01",
+    "faculty": "DSU",
+    "time": "04:50 PM - 07:50 PM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 215,
+    "type": "class",
+    "code": "CSE227",
+    "sec": "01",
+    "faculty": "DSU",
+    "time": "10:10 AM - 11:40 AM",
+    "days": [
+      "Tuesday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 216,
+    "type": "class",
+    "code": "CSE246",
+    "sec": "01",
+    "faculty": "DTBI",
+    "time": "11:50 AM - 01:20 PM",
+    "days": [
+      "Tuesday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 217,
+    "type": "lab",
+    "code": "CSE246",
+    "sec": "01",
+    "faculty": "DTBI",
+    "time": "04:50 PM - 07:50 PM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 218,
+    "type": "lab",
+    "code": "CSE246",
+    "sec": "02",
+    "faculty": "TBA",
+    "time": "04:50 PM - 07:50 PM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 219,
+    "type": "class",
+    "code": "CSE246",
+    "sec": "02",
+    "faculty": "DTBI",
+    "time": "03:10 PM - 04:40 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 220,
+    "type": "class",
+    "code": "CSE246",
+    "sec": "03",
+    "faculty": "DTS",
+    "time": "08:30 AM - 10:00 AM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 221,
+    "type": "lab",
+    "code": "CSE246",
+    "sec": "03",
+    "faculty": "DTS",
+    "time": "01:30 PM - 04:30 PM",
+    "days": [
+      "Wednesday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 222,
+    "type": "lab",
+    "code": "CSE246",
+    "sec": "04",
+    "faculty": "DTS",
+    "time": "08:00 AM - 11:00 AM",
+    "days": [
+      "Monday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 223,
+    "type": "class",
+    "code": "CSE246",
+    "sec": "04",
+    "faculty": "DTS",
+    "time": "01:30 PM - 03:00 PM",
+    "days": [
+      "Tuesday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 224,
+    "type": "class",
+    "code": "CSE246",
+    "sec": "05",
+    "faculty": "DHMAI",
+    "time": "03:10 PM - 04:40 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 225,
+    "type": "lab",
+    "code": "CSE246",
+    "sec": "05",
+    "faculty": "DHMAI",
+    "time": "04:50 PM - 07:50 PM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 226,
+    "type": "class",
+    "code": "CSE246",
+    "sec": "06",
+    "faculty": "RARZ",
+    "time": "08:30 AM - 10:00 AM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 227,
+    "type": "lab",
+    "code": "CSE246",
+    "sec": "06",
+    "faculty": "TBA",
+    "time": "10:10 AM - 01:10 PM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 228,
+    "type": "lab",
+    "code": "CSE246",
+    "sec": "07",
+    "faculty": "AMITM",
+    "time": "10:10 AM - 01:10 PM",
+    "days": [
+      "Tuesday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 229,
+    "type": "class",
+    "code": "CSE246",
+    "sec": "07",
+    "faculty": "RARZ",
+    "time": "10:10 AM - 11:40 AM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 230,
+    "type": "lab",
+    "code": "CSE246",
+    "sec": "08",
+    "faculty": "RABEA",
+    "time": "01:30 PM - 03:30 PM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 231,
+    "type": "class",
+    "code": "CSE246",
+    "sec": "08",
+    "faculty": "RABEA",
+    "time": "08:30 AM - 10:00 AM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 232,
+    "type": "lab",
+    "code": "CSE246",
+    "sec": "09",
+    "faculty": "TBA",
+    "time": "08:00 AM - 10:00 AM",
+    "days": [
+      "Monday",
+      "Thursday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 233,
+    "type": "class",
+    "code": "CSE246",
+    "sec": "09",
+    "faculty": "TBA",
+    "time": "08:30 AM - 10:00 AM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 234,
+    "type": "class",
+    "code": "CSE246",
+    "sec": "10",
+    "faculty": "TBA",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 235,
+    "type": "lab",
+    "code": "CSE246",
+    "sec": "10",
+    "faculty": "TBA",
+    "time": "10:10 AM - 01:10 PM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 236,
+    "type": "lab",
+    "code": "CSE246",
+    "sec": "11",
+    "faculty": "TBA",
+    "time": "08:00 AM - 10:00 AM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 237,
+    "type": "class",
+    "code": "CSE246",
+    "sec": "11",
+    "faculty": "TBA",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Tuesday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 238,
+    "type": "class",
+    "code": "CSE246",
+    "sec": "12",
+    "faculty": "TBA",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Tuesday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 239,
+    "type": "lab",
+    "code": "CSE246",
+    "sec": "12",
+    "faculty": "TBA",
+    "time": "08:00 AM - 10:00 AM",
+    "days": [
+      "Monday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 240,
+    "type": "lab",
+    "code": "CSE246",
+    "sec": "13",
+    "faculty": "TBA",
+    "time": "08:00 AM - 10:00 AM",
+    "days": [
+      "Wednesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 241,
+    "type": "class",
+    "code": "CSE246",
+    "sec": "13",
+    "faculty": "TBA",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 242,
+    "type": "lab",
+    "code": "CSE246",
+    "sec": "14",
+    "faculty": "TBA",
+    "time": "04:50 PM - 07:50 PM",
+    "days": [
+      "Monday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 243,
+    "type": "class",
+    "code": "CSE246",
+    "sec": "14",
+    "faculty": "TBA",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Thursday",
+      "Sunday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 244,
+    "type": "lab",
+    "code": "CSE246",
+    "sec": "15",
+    "faculty": "TBA",
+    "time": "04:50 PM - 07:50 PM",
+    "days": [
+      "Monday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 245,
+    "type": "class",
+    "code": "CSE246",
+    "sec": "15",
+    "faculty": "TBA",
+    "time": "03:10 PM - 04:40 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 246,
+    "type": "class",
+    "code": "CSE251",
+    "sec": "01",
+    "faculty": "MHR",
+    "time": "10:10 AM - 11:40 AM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 247,
+    "type": "lab",
+    "code": "CSE251",
+    "sec": "01",
+    "faculty": "MHR",
+    "time": "08:00 AM - 10:00 AM",
+    "days": [
+      "Monday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 248,
+    "type": "class",
+    "code": "CSE251",
+    "sec": "02",
+    "faculty": "MHR",
+    "time": "11:50 AM - 01:20 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 249,
+    "type": "lab",
+    "code": "CSE251",
+    "sec": "02",
+    "faculty": "MHR",
+    "time": "08:00 AM - 10:00 AM",
+    "days": [
+      "Wednesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 250,
+    "type": "lab",
+    "code": "CSE251",
+    "sec": "03",
+    "faculty": "SJ",
+    "time": "10:10 AM - 12:10 PM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 251,
+    "type": "class",
+    "code": "CSE251",
+    "sec": "03",
+    "faculty": "SJ",
+    "time": "10:10 AM - 11:40 AM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 252,
+    "type": "lab",
+    "code": "CSE251",
+    "sec": "04",
+    "faculty": "SJ",
+    "time": "01:30 PM - 03:30 PM",
+    "days": [
+      "Monday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 253,
+    "type": "class",
+    "code": "CSE251",
+    "sec": "04",
+    "faculty": "SJ",
+    "time": "11:50 AM - 01:20 PM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 254,
+    "type": "lab",
+    "code": "CSE251",
+    "sec": "05",
+    "faculty": "RDA",
+    "time": "10:10 AM - 12:10 PM",
+    "days": [
+      "Wednesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 255,
+    "type": "class",
+    "code": "CSE251",
+    "sec": "05",
+    "faculty": "RDA",
+    "time": "01:30 PM - 03:00 PM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 256,
+    "type": "class",
+    "code": "CSE251",
+    "sec": "06",
+    "faculty": "RDA",
+    "time": "03:10 PM - 04:40 PM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 257,
+    "type": "lab",
+    "code": "CSE251",
+    "sec": "06",
+    "faculty": "RDA",
+    "time": "10:10 AM - 12:10 PM",
+    "days": [
+      "Monday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 258,
+    "type": "lab",
+    "code": "CSE251",
+    "sec": "07",
+    "faculty": "SHK",
+    "time": "04:50 PM - 06:50 PM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 259,
+    "type": "class",
+    "code": "CSE251",
+    "sec": "07",
+    "faculty": "SHK",
+    "time": "03:10 PM - 04:40 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 260,
+    "type": "lab",
+    "code": "CSE251",
+    "sec": "08",
+    "faculty": "TBA",
+    "time": "01:30 PM - 03:30 PM",
+    "days": [
+      "Monday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 261,
+    "type": "class",
+    "code": "CSE251",
+    "sec": "08",
+    "faculty": "PMSR",
+    "time": "03:10 PM - 04:40 PM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 262,
+    "type": "class",
+    "code": "CSE251",
+    "sec": "09",
+    "faculty": "PMSR",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 263,
+    "type": "lab",
+    "code": "CSE251",
+    "sec": "09",
+    "faculty": "TBA",
+    "time": "10:10 AM - 12:10 PM",
+    "days": [
+      "Wednesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 264,
+    "type": "lab",
+    "code": "CSE251",
+    "sec": "10",
+    "faculty": "DIPAYAN",
+    "time": "04:50 PM - 06:50 PM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 265,
+    "type": "class",
+    "code": "CSE251",
+    "sec": "10",
+    "faculty": "DIPAYAN",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 266,
+    "type": "class",
+    "code": "CSE251",
+    "sec": "11",
+    "faculty": "MAHADI",
+    "time": "01:30 PM - 03:00 PM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 267,
+    "type": "lab",
+    "code": "CSE251",
+    "sec": "11",
+    "faculty": "MAHADI",
+    "time": "04:50 PM - 06:50 PM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 268,
+    "type": "lab",
+    "code": "CSE251",
+    "sec": "12",
+    "faculty": "MAHADI",
+    "time": "04:50 PM - 06:50 PM",
+    "days": [
+      "Tuesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 269,
+    "type": "class",
+    "code": "CSE251",
+    "sec": "12",
+    "faculty": "MAHADI",
+    "time": "03:10 PM - 04:40 PM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 270,
+    "type": "class",
+    "code": "CSE251",
+    "sec": "13",
+    "faculty": "TBA",
+    "time": "08:30 AM - 10:00 AM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 271,
+    "type": "lab",
+    "code": "CSE251",
+    "sec": "13",
+    "faculty": "TBA",
+    "time": "08:00 AM - 10:00 AM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 272,
+    "type": "class",
+    "code": "CSE251",
+    "sec": "14",
+    "faculty": "TBA",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Tuesday",
+      "Sunday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 273,
+    "type": "lab",
+    "code": "CSE251",
+    "sec": "14",
+    "faculty": "TBA",
+    "time": "04:50 PM - 06:50 PM",
+    "days": [
+      "Monday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 274,
+    "type": "class",
+    "code": "CSE251",
+    "sec": "15",
+    "faculty": "TBA",
+    "time": "08:30 AM - 10:00 AM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 275,
+    "type": "lab",
+    "code": "CSE251",
+    "sec": "15",
+    "faculty": "TBA",
+    "time": "10:10 AM - 12:10 PM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 276,
+    "type": "class",
+    "code": "CSE302",
+    "sec": "01",
+    "faculty": "DMRH",
+    "time": "10:10 AM - 11:40 AM",
+    "days": [
+      "Tuesday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 277,
+    "type": "lab",
+    "code": "CSE302",
+    "sec": "01",
+    "faculty": "DMRH",
+    "time": "01:30 PM - 04:30 PM",
+    "days": [
+      "Tuesday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 278,
+    "type": "lab",
+    "code": "CSE302",
+    "sec": "02",
+    "faculty": "MKR",
+    "time": "10:10 AM - 01:10 PM",
+    "days": [
+      "Monday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 279,
+    "type": "class",
+    "code": "CSE302",
+    "sec": "02",
+    "faculty": "MKR",
+    "time": "08:30 AM - 10:00 AM",
+    "days": [
+      "Tuesday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 280,
+    "type": "class",
+    "code": "CSE302",
+    "sec": "03",
+    "faculty": "MKR",
+    "time": "10:10 AM - 11:40 AM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 281,
+    "type": "lab",
+    "code": "CSE302",
+    "sec": "03",
+    "faculty": "MKR",
+    "time": "08:00 AM - 11:00 AM",
+    "days": [
+      "Wednesday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 282,
+    "type": "lab",
+    "code": "CSE302",
+    "sec": "04",
+    "faculty": "MRJ",
+    "time": "01:30 PM - 04:30 PM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 283,
+    "type": "class",
+    "code": "CSE302",
+    "sec": "04",
+    "faculty": "MRJ",
+    "time": "08:30 AM - 10:00 AM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 284,
+    "type": "class",
+    "code": "CSE302",
+    "sec": "05",
+    "faculty": "MRJ",
+    "time": "10:10 AM - 11:40 AM",
+    "days": [
+      "Thursday",
+      "Sunday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 285,
+    "type": "lab",
+    "code": "CSE302",
+    "sec": "05",
+    "faculty": "MRJ",
+    "time": "10:10 AM - 01:10 PM",
+    "days": [
+      "Tuesday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 286,
+    "type": "lab",
+    "code": "CSE302",
+    "sec": "06",
+    "faculty": "MRJ",
+    "time": "01:30 PM - 04:30 PM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 287,
+    "type": "class",
+    "code": "CSE302",
+    "sec": "06",
+    "faculty": "DMSHN",
+    "time": "01:30 PM - 03:00 PM",
+    "days": [
+      "Tuesday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 288,
+    "type": "class",
+    "code": "CSE302",
+    "sec": "07",
+    "faculty": "DMSHN",
+    "time": "03:10 PM - 04:40 PM",
+    "days": [
+      "Tuesday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 289,
+    "type": "lab",
+    "code": "CSE302",
+    "sec": "07",
+    "faculty": "KRI",
+    "time": "08:00 AM - 11:00 AM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 290,
+    "type": "class",
+    "code": "CSE302",
+    "sec": "08",
+    "faculty": "KRI",
+    "time": "03:10 PM - 04:40 PM",
+    "days": [
+      "Thursday",
+      "Sunday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 291,
+    "type": "lab",
+    "code": "CSE302",
+    "sec": "08",
+    "faculty": "KRI",
+    "time": "01:30 PM - 03:30 PM",
+    "days": [
+      "Monday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 292,
+    "type": "class",
+    "code": "CSE302",
+    "sec": "09",
+    "faculty": "KRI",
+    "time": "11:50 AM - 01:20 PM",
+    "days": [
+      "Thursday",
+      "Sunday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 293,
+    "type": "lab",
+    "code": "CSE302",
+    "sec": "09",
+    "faculty": "KRI",
+    "time": "08:00 AM - 11:00 AM",
+    "days": [
+      "Wednesday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 294,
+    "type": "lab",
+    "code": "CSE302",
+    "sec": "10",
+    "faculty": "TBA",
+    "time": "04:50 PM - 07:50 PM",
+    "days": [
+      "Wednesday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 295,
+    "type": "class",
+    "code": "CSE302",
+    "sec": "10",
+    "faculty": "TBA",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 296,
+    "type": "class",
+    "code": "CSE303",
+    "sec": "01",
+    "faculty": "DMRH",
+    "time": "11:50 AM - 01:20 PM",
+    "days": [
+      "Tuesday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 297,
+    "type": "lab",
+    "code": "CSE303",
+    "sec": "01",
+    "faculty": "DMRH",
+    "time": "01:30 PM - 03:30 PM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 298,
+    "type": "lab",
+    "code": "CSE303",
+    "sec": "02",
+    "faculty": "DMIM",
+    "time": "08:00 AM - 10:00 AM",
+    "days": [
+      "Tuesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 299,
+    "type": "class",
+    "code": "CSE303",
+    "sec": "02",
+    "faculty": "DMIM",
+    "time": "10:10 AM - 11:40 AM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 300,
+    "type": "class",
+    "code": "CSE303",
+    "sec": "03",
+    "faculty": "DMIM",
+    "time": "11:50 AM - 01:20 PM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 301,
+    "type": "lab",
+    "code": "CSE303",
+    "sec": "03",
+    "faculty": "DMIM",
+    "time": "10:10 AM - 12:10 PM",
+    "days": [
+      "Tuesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 302,
+    "type": "lab",
+    "code": "CSE303",
+    "sec": "04",
+    "faculty": "PC",
+    "time": "01:30 PM - 03:30 PM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 303,
+    "type": "class",
+    "code": "CSE303",
+    "sec": "04",
+    "faculty": "DMIR",
+    "time": "10:10 AM - 11:40 AM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 304,
+    "type": "class",
+    "code": "CSE303",
+    "sec": "05",
+    "faculty": "DMIR",
+    "time": "11:50 AM - 01:20 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 305,
+    "type": "lab",
+    "code": "CSE303",
+    "sec": "05",
+    "faculty": "PC",
+    "time": "01:30 PM - 03:30 PM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 306,
+    "type": "lab",
+    "code": "CSE303",
+    "sec": "06",
+    "faculty": "TBA",
+    "time": "08:00 AM - 10:00 AM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 307,
+    "type": "class",
+    "code": "CSE303",
+    "sec": "06",
+    "faculty": "TBA",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 308,
+    "type": "class",
+    "code": "CSE303",
+    "sec": "07",
+    "faculty": "TBA",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 309,
+    "type": "lab",
+    "code": "CSE303",
+    "sec": "07",
+    "faculty": "TBA",
+    "time": "10:10 AM - 12:10 PM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 310,
+    "type": "lab",
+    "code": "CSE325",
+    "sec": "01",
+    "faculty": "KRI",
+    "time": "04:50 PM - 06:50 PM",
+    "days": [
+      "Tuesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 311,
+    "type": "class",
+    "code": "CSE325",
+    "sec": "01",
+    "faculty": "NYA",
+    "time": "10:10 AM - 11:40 AM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 312,
+    "type": "lab",
+    "code": "CSE325",
+    "sec": "02",
+    "faculty": "KRI",
+    "time": "01:30 PM - 03:30 PM",
+    "days": [
+      "Wednesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 313,
+    "type": "class",
+    "code": "CSE325",
+    "sec": "02",
+    "faculty": "KRI",
+    "time": "01:30 PM - 03:00 PM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 314,
+    "type": "class",
+    "code": "CSE325",
+    "sec": "03",
+    "faculty": "PMTI",
+    "time": "01:30 PM - 03:00 PM",
+    "days": [
+      "Tuesday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 315,
+    "type": "lab",
+    "code": "CSE325",
+    "sec": "03",
+    "faculty": "PMTI",
+    "time": "04:50 PM - 06:50 PM",
+    "days": [
+      "Tuesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 316,
+    "type": "lab",
+    "code": "CSE325",
+    "sec": "04",
+    "faculty": "PMTI",
+    "time": "04:50 PM - 06:50 PM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 317,
+    "type": "class",
+    "code": "CSE325",
+    "sec": "04",
+    "faculty": "PMTI",
+    "time": "03:10 PM - 04:40 PM",
+    "days": [
+      "Tuesday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 318,
+    "type": "class",
+    "code": "CSE325",
+    "sec": "05",
+    "faculty": "MOON",
+    "time": "08:30 AM - 10:00 AM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 319,
+    "type": "lab",
+    "code": "CSE325",
+    "sec": "05",
+    "faculty": "MOON",
+    "time": "01:30 PM - 03:30 PM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 320,
+    "type": "lab",
+    "code": "CSE325",
+    "sec": "06",
+    "faculty": "MOON",
+    "time": "11:20 AM - 01:20 PM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 321,
+    "type": "class",
+    "code": "CSE325",
+    "sec": "06",
+    "faculty": "MOON",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 322,
+    "type": "class",
+    "code": "CSE325",
+    "sec": "06",
+    "faculty": "MOON",
+    "time": "11:50 AM - 01:20 PM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 323,
+    "type": "class",
+    "code": "CSE325",
+    "sec": "07",
+    "faculty": "MOON",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 324,
+    "type": "lab",
+    "code": "CSE325",
+    "sec": "07",
+    "faculty": "MOON",
+    "time": "08:00 AM - 10:00 AM",
+    "days": [
+      "Wednesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 325,
+    "type": "lab",
+    "code": "CSE325",
+    "sec": "08",
+    "faculty": "TBA",
+    "time": "08:00 AM - 10:00 AM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 326,
+    "type": "class",
+    "code": "CSE325",
+    "sec": "08",
+    "faculty": "TBA",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 327,
+    "type": "class",
+    "code": "CSE325",
+    "sec": "09",
+    "faculty": "TBA",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 328,
+    "type": "lab",
+    "code": "CSE325",
+    "sec": "09",
+    "faculty": "TBA",
+    "time": "08:00 AM - 10:00 AM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 329,
+    "type": "lab",
+    "code": "CSE325",
+    "sec": "10",
+    "faculty": "TBA",
+    "time": "08:00 AM - 10:00 AM",
+    "days": [
+      "Monday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 330,
+    "type": "class",
+    "code": "CSE325",
+    "sec": "10",
+    "faculty": "TBA",
+    "time": "08:30 AM - 10:00 AM",
+    "days": [
+      "Tuesday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 331,
+    "type": "class",
+    "code": "CSE325",
+    "sec": "11",
+    "faculty": "TBA",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Tuesday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 332,
+    "type": "lab",
+    "code": "CSE325",
+    "sec": "11",
+    "faculty": "TBA",
+    "time": "08:00 AM - 10:00 AM",
+    "days": [
+      "Monday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 333,
+    "type": "lab",
+    "code": "CSE325",
+    "sec": "12",
+    "faculty": "TBA",
+    "time": "08:00 AM - 10:00 AM",
+    "days": [
+      "Wednesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 334,
+    "type": "class",
+    "code": "CSE325",
+    "sec": "12",
+    "faculty": "TBA",
+    "time": "08:30 AM - 10:00 AM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 335,
+    "type": "lab",
+    "code": "CSE345",
+    "sec": "01",
+    "faculty": "ALI",
+    "time": "10:10 AM - 12:10 PM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 336,
+    "type": "class",
+    "code": "CSE345",
+    "sec": "01",
+    "faculty": "ALI",
+    "time": "10:10 AM - 11:40 AM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 337,
+    "type": "class",
+    "code": "CSE345",
+    "sec": "02",
+    "faculty": "ALI",
+    "time": "01:30 PM - 03:00 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 338,
+    "type": "lab",
+    "code": "CSE345",
+    "sec": "02",
+    "faculty": "ALI",
+    "time": "04:50 PM - 06:50 PM",
+    "days": [
+      "Tuesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 339,
+    "type": "lab",
+    "code": "CSE345",
+    "sec": "03",
+    "faculty": "DTS",
+    "time": "10:10 AM - 12:10 PM",
+    "days": [
+      "Wednesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 340,
+    "type": "class",
+    "code": "CSE345",
+    "sec": "03",
+    "faculty": "DTS",
+    "time": "10:10 AM - 11:40 AM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 341,
+    "type": "class",
+    "code": "CSE345",
+    "sec": "04",
+    "faculty": "MKN",
+    "time": "10:10 AM - 11:40 AM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 342,
+    "type": "lab",
+    "code": "CSE345",
+    "sec": "04",
+    "faculty": "MKN",
+    "time": "10:10 AM - 12:10 PM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 343,
+    "type": "lab",
+    "code": "CSE345",
+    "sec": "05",
+    "faculty": "MKN",
+    "time": "01:30 PM - 03:30 PM",
+    "days": [
+      "Monday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 344,
+    "type": "class",
+    "code": "CSE345",
+    "sec": "05",
+    "faculty": "MKN",
+    "time": "01:30 PM - 03:00 PM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 345,
+    "type": "class",
+    "code": "CSE345",
+    "sec": "06",
+    "faculty": "NISHAT",
+    "time": "08:30 AM - 10:00 AM",
+    "days": [
+      "Thursday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 346,
+    "type": "lab",
+    "code": "CSE345",
+    "sec": "06",
+    "faculty": "NISHAT",
+    "time": "10:10 AM - 12:10 PM",
+    "days": [
+      "Tuesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 347,
+    "type": "class",
+    "code": "CSE345",
+    "sec": "07",
+    "faculty": "NISHAT",
+    "time": "10:10 AM - 11:40 AM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 348,
+    "type": "lab",
+    "code": "CSE345",
+    "sec": "07",
+    "faculty": "NISHAT",
+    "time": "08:00 AM - 10:00 AM",
+    "days": [
+      "Monday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 349,
+    "type": "class",
+    "code": "CSE345",
+    "sec": "08",
+    "faculty": "TBA",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 350,
+    "type": "lab",
+    "code": "CSE345",
+    "sec": "08",
+    "faculty": "TBA",
+    "time": "01:30 PM - 03:30 PM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 351,
+    "type": "lab",
+    "code": "CSE347",
+    "sec": "01",
+    "faculty": "DSHR",
+    "time": "08:00 AM - 10:00 AM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 352,
+    "type": "class",
+    "code": "CSE347",
+    "sec": "01",
+    "faculty": "DSHR",
+    "time": "10:10 AM - 11:40 AM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 353,
+    "type": "class",
+    "code": "CSE347",
+    "sec": "02",
+    "faculty": "DSHR",
+    "time": "11:50 AM - 01:20 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 354,
+    "type": "lab",
+    "code": "CSE347",
+    "sec": "02",
+    "faculty": "DSHR",
+    "time": "10:10 AM - 12:10 PM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 355,
+    "type": "lab",
+    "code": "CSE347",
+    "sec": "03",
+    "faculty": "ANIKA",
+    "time": "08:00 AM - 10:00 AM",
+    "days": [
+      "Monday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 356,
+    "type": "class",
+    "code": "CSE347",
+    "sec": "03",
+    "faculty": "ANIKA",
+    "time": "08:30 AM - 10:00 AM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 357,
+    "type": "class",
+    "code": "CSE347",
+    "sec": "04",
+    "faculty": "ANIKA",
+    "time": "10:10 AM - 11:40 AM",
+    "days": [
+      "Thursday",
+      "Sunday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 358,
+    "type": "lab",
+    "code": "CSE347",
+    "sec": "04",
+    "faculty": "ANIKA",
+    "time": "08:00 AM - 10:00 AM",
+    "days": [
+      "Wednesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 359,
+    "type": "lab",
+    "code": "CSE347",
+    "sec": "05",
+    "faculty": "SABBIR",
+    "time": "01:30 PM - 03:30 PM",
+    "days": [
+      "Wednesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 360,
+    "type": "class",
+    "code": "CSE347",
+    "sec": "05",
+    "faculty": "SABBIR",
+    "time": "01:30 PM - 03:00 PM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 361,
+    "type": "class",
+    "code": "CSE347",
+    "sec": "06",
+    "faculty": "SABBIR",
+    "time": "03:10 PM - 04:40 PM",
+    "days": [
+      "Tuesday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 362,
+    "type": "lab",
+    "code": "CSE347",
+    "sec": "06",
+    "faculty": "SABBIR",
+    "time": "04:50 PM - 06:50 PM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 363,
+    "type": "lab",
+    "code": "CSE347",
+    "sec": "07",
+    "faculty": "TBA",
+    "time": "08:00 AM - 10:00 AM",
+    "days": [
+      "Tuesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 364,
+    "type": "class",
+    "code": "CSE347",
+    "sec": "07",
+    "faculty": "TBA",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 365,
+    "type": "lab",
+    "code": "CSE347",
+    "sec": "08",
+    "faculty": "TBA",
+    "time": "08:00 AM - 10:00 AM",
+    "days": [
+      "Monday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 366,
+    "type": "class",
+    "code": "CSE347",
+    "sec": "08",
+    "faculty": "TBA",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 367,
+    "type": "lab",
+    "code": "CSE347",
+    "sec": "09",
+    "faculty": "TBA",
+    "time": "04:50 PM - 06:50 PM",
+    "days": [
+      "Tuesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 368,
+    "type": "class",
+    "code": "CSE347",
+    "sec": "09",
+    "faculty": "TBA",
+    "time": "03:10 PM - 04:40 PM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 369,
+    "type": "class",
+    "code": "CSE347",
+    "sec": "10",
+    "faculty": "TBA",
+    "time": "03:10 PM - 04:40 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 370,
+    "type": "lab",
+    "code": "CSE347",
+    "sec": "10",
+    "faculty": "TBA",
+    "time": "08:00 AM - 10:00 AM",
+    "days": [
+      "Tuesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 371,
+    "type": "lab",
+    "code": "CSE350",
+    "sec": "01",
+    "faculty": "KHALID",
+    "time": "01:30 PM - 03:30 PM",
+    "days": [
+      "Wednesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 372,
+    "type": "class",
+    "code": "CSE350",
+    "sec": "01",
+    "faculty": "KHALID",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 373,
+    "type": "class",
+    "code": "CSE350",
+    "sec": "02",
+    "faculty": "KHALID",
+    "time": "03:10 PM - 04:40 PM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 374,
+    "type": "lab",
+    "code": "CSE350",
+    "sec": "02",
+    "faculty": "KHALID",
+    "time": "04:50 PM - 06:50 PM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 375,
+    "type": "class",
+    "code": "CSE360",
+    "sec": "01",
+    "faculty": "NYA",
+    "time": "10:10 AM - 11:40 AM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 376,
+    "type": "class",
+    "code": "CSE360",
+    "sec": "02",
+    "faculty": "NYA",
+    "time": "01:30 PM - 03:00 PM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 377,
+    "type": "class",
+    "code": "CSE360",
+    "sec": "03",
+    "faculty": "DMEI",
+    "time": "08:30 AM - 10:00 AM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 378,
+    "type": "class",
+    "code": "CSE360",
+    "sec": "04",
+    "faculty": "DMEI",
+    "time": "10:10 AM - 11:40 AM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 379,
+    "type": "class",
+    "code": "CSE360",
+    "sec": "05",
+    "faculty": "SDIS",
+    "time": "11:50 AM - 01:20 PM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 380,
+    "type": "class",
+    "code": "CSE360",
+    "sec": "06",
+    "faculty": "SDIS",
+    "time": "01:30 PM - 03:00 PM",
+    "days": [
+      "Thursday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 381,
+    "type": "class",
+    "code": "CSE366",
+    "sec": "01",
+    "faculty": "DRUI",
+    "time": "10:10 AM - 11:40 AM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 382,
+    "type": "lab",
+    "code": "CSE366",
+    "sec": "01",
+    "faculty": "DRUI",
+    "time": "01:30 PM - 03:30 PM",
+    "days": [
+      "Monday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 383,
+    "type": "lab",
+    "code": "CSE366",
+    "sec": "02",
+    "faculty": "MRAR",
+    "time": "04:50 PM - 06:50 PM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 384,
+    "type": "class",
+    "code": "CSE366",
+    "sec": "02",
+    "faculty": "MRAR",
+    "time": "03:10 PM - 04:40 PM",
+    "days": [
+      "Tuesday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 385,
+    "type": "class",
+    "code": "CSE366",
+    "sec": "03",
+    "faculty": "DMGR",
+    "time": "10:10 AM - 11:40 AM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 386,
+    "type": "lab",
+    "code": "CSE366",
+    "sec": "03",
+    "faculty": "DMGR",
+    "time": "08:00 AM - 10:00 AM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 387,
+    "type": "class",
+    "code": "CSE366",
+    "sec": "04",
+    "faculty": "DMGR",
+    "time": "11:50 AM - 01:20 PM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 388,
+    "type": "lab",
+    "code": "CSE366",
+    "sec": "04",
+    "faculty": "DMGR",
+    "time": "08:00 AM - 10:00 AM",
+    "days": [
+      "Tuesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 389,
+    "type": "lab",
+    "code": "CSE366",
+    "sec": "05",
+    "faculty": "IMRAN",
+    "time": "04:50 PM - 06:50 PM",
+    "days": [
+      "Wednesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 390,
+    "type": "class",
+    "code": "CSE366",
+    "sec": "05",
+    "faculty": "IMRAN",
+    "time": "03:10 PM - 04:40 PM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 391,
+    "type": "class",
+    "code": "CSE366",
+    "sec": "06",
+    "faculty": "IMRAN",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 392,
+    "type": "lab",
+    "code": "CSE366",
+    "sec": "06",
+    "faculty": "IMRAN",
+    "time": "04:50 PM - 06:50 PM",
+    "days": [
+      "Monday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 393,
+    "type": "class",
+    "code": "CSE366",
+    "sec": "07",
+    "faculty": "TBA",
+    "time": "10:10 AM - 11:40 AM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 394,
+    "type": "lab",
+    "code": "CSE366",
+    "sec": "07",
+    "faculty": "TBA",
+    "time": "10:10 AM - 12:10 PM",
+    "days": [
+      "Tuesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 395,
+    "type": "class",
+    "code": "CSE366",
+    "sec": "08",
+    "faculty": "TBA",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Tuesday",
+      "Sunday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 396,
+    "type": "lab",
+    "code": "CSE366",
+    "sec": "08",
+    "faculty": "TBA",
+    "time": "08:00 AM - 10:00 AM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 397,
+    "type": "class",
+    "code": "CSE400A",
+    "sec": "01",
+    "faculty": "TBA",
+    "time": "09:00 AM - 10:00 AM",
+    "days": [
+      "Friday"
+    ],
+    "duration": 60
+  },
+  {
+    "id": 398,
+    "type": "class",
+    "code": "CSE400B",
+    "sec": "01",
+    "faculty": "TBA",
+    "time": "10:00 AM - 11:00 AM",
+    "days": [
+      "Friday"
+    ],
+    "duration": 60
+  },
+  {
+    "id": 399,
+    "type": "class",
+    "code": "CSE400C",
+    "sec": "01",
+    "faculty": "TBA",
+    "time": "11:00 AM - 12:30 PM",
+    "days": [
+      "Friday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 400,
+    "type": "class",
+    "code": "CSE405",
+    "sec": "01",
+    "faculty": "MAR",
+    "time": "08:30 AM - 10:00 AM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 401,
+    "type": "lab",
+    "code": "CSE405",
+    "sec": "01",
+    "faculty": "MAR",
+    "time": "08:00 AM - 10:00 AM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 402,
+    "type": "lab",
+    "code": "CSE405",
+    "sec": "02",
+    "faculty": "MAR",
+    "time": "01:30 PM - 03:30 PM",
+    "days": [
+      "Monday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 403,
+    "type": "class",
+    "code": "CSE405",
+    "sec": "02",
+    "faculty": "MAR",
+    "time": "11:50 AM - 01:20 PM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 404,
+    "type": "class",
+    "code": "CSE405",
+    "sec": "03",
+    "faculty": "MAR",
+    "time": "08:30 AM - 10:00 AM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 405,
+    "type": "lab",
+    "code": "CSE405",
+    "sec": "03",
+    "faculty": "MAR",
+    "time": "01:30 PM - 03:30 PM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 406,
+    "type": "lab",
+    "code": "CSE405",
+    "sec": "04",
+    "faculty": "KHALID",
+    "time": "01:30 PM - 03:30 PM",
+    "days": [
+      "Tuesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 407,
+    "type": "class",
+    "code": "CSE405",
+    "sec": "04",
+    "faculty": "KHALID",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 408,
+    "type": "class",
+    "code": "CSE405",
+    "sec": "05",
+    "faculty": "RABEA",
+    "time": "08:30 AM - 10:00 AM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 409,
+    "type": "lab",
+    "code": "CSE405",
+    "sec": "05",
+    "faculty": "RABEA",
+    "time": "08:00 AM - 10:00 AM",
+    "days": [
+      "Thursday",
+      "Tuesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 410,
+    "type": "class",
+    "code": "CSE405",
+    "sec": "06",
+    "faculty": "RABEA",
+    "time": "11:50 AM - 01:20 PM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 411,
+    "type": "lab",
+    "code": "CSE405",
+    "sec": "06",
+    "faculty": "RABEA",
+    "time": "10:10 AM - 12:10 PM",
+    "days": [
+      "Tuesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 412,
+    "type": "class",
+    "code": "CSE405",
+    "sec": "07",
+    "faculty": "ARMAN",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 413,
+    "type": "lab",
+    "code": "CSE405",
+    "sec": "07",
+    "faculty": "ARMAN",
+    "time": "01:30 PM - 03:30 PM",
+    "days": [
+      "Wednesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 414,
+    "type": "class",
+    "code": "CSE405",
+    "sec": "08",
+    "faculty": "TBA",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 415,
+    "type": "lab",
+    "code": "CSE405",
+    "sec": "08",
+    "faculty": "TBA",
+    "time": "08:00 AM - 10:00 AM",
+    "days": [
+      "Wednesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 416,
+    "type": "class",
+    "code": "CSE405",
+    "sec": "09",
+    "faculty": "TBA",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Tuesday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 417,
+    "type": "lab",
+    "code": "CSE405",
+    "sec": "09",
+    "faculty": "TBA",
+    "time": "08:00 AM - 10:00 AM",
+    "days": [
+      "Monday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 418,
+    "type": "class",
+    "code": "CSE405",
+    "sec": "10",
+    "faculty": "TBA",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 419,
+    "type": "lab",
+    "code": "CSE405",
+    "sec": "10",
+    "faculty": "TBA",
+    "time": "04:50 PM - 06:50 PM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 420,
+    "type": "class",
+    "code": "CSE406",
+    "sec": "01",
+    "faculty": "DRUI",
+    "time": "01:30 PM - 03:00 PM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 421,
+    "type": "lab",
+    "code": "CSE406",
+    "sec": "01",
+    "faculty": "DRUI",
+    "time": "10:10 AM - 12:10 PM",
+    "days": [
+      "Monday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 422,
+    "type": "class",
+    "code": "CSE407",
+    "sec": "01",
+    "faculty": "RDA",
+    "time": "10:10 AM - 11:40 AM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 423,
+    "type": "class",
+    "code": "CSE407",
+    "sec": "02",
+    "faculty": "RDA",
+    "time": "03:10 PM - 04:40 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 424,
+    "type": "class",
+    "code": "CSE407",
+    "sec": "03",
+    "faculty": "AMITM",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 425,
+    "type": "class",
+    "code": "CSE407",
+    "sec": "04",
+    "faculty": "TBA",
+    "time": "03:10 PM - 04:40 PM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 426,
+    "type": "lab",
+    "code": "CSE412",
+    "sec": "01",
+    "faculty": "NTN",
+    "time": "01:30 PM - 03:30 PM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 427,
+    "type": "class",
+    "code": "CSE412",
+    "sec": "01",
+    "faculty": "NTN",
+    "time": "08:30 AM - 10:00 AM",
+    "days": [
+      "Thursday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 428,
+    "type": "class",
+    "code": "CSE412",
+    "sec": "02",
+    "faculty": "NTN",
+    "time": "11:50 AM - 01:20 PM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 429,
+    "type": "lab",
+    "code": "CSE412",
+    "sec": "02",
+    "faculty": "NTN",
+    "time": "10:10 AM - 12:10 PM",
+    "days": [
+      "Monday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 430,
+    "type": "lab",
+    "code": "CSE412",
+    "sec": "03",
+    "faculty": "YS",
+    "time": "10:10 AM - 12:10 PM",
+    "days": [
+      "Wednesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 431,
+    "type": "class",
+    "code": "CSE412",
+    "sec": "03",
+    "faculty": "YS",
+    "time": "01:30 PM - 03:00 PM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 432,
+    "type": "class",
+    "code": "CSE412",
+    "sec": "04",
+    "faculty": "YS",
+    "time": "08:30 AM - 10:00 AM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 433,
+    "type": "lab",
+    "code": "CSE412",
+    "sec": "04",
+    "faculty": "YS",
+    "time": "01:30 PM - 03:30 PM",
+    "days": [
+      "Monday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 434,
+    "type": "class",
+    "code": "CSE412",
+    "sec": "05",
+    "faculty": "TBA",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Thursday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 435,
+    "type": "lab",
+    "code": "CSE412",
+    "sec": "05",
+    "faculty": "TBA",
+    "time": "01:30 PM - 03:30 PM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 436,
+    "type": "class",
+    "code": "CSE420",
+    "sec": "01",
+    "faculty": "DTBI",
+    "time": "01:30 PM - 03:00 PM",
+    "days": [
+      "Thursday",
+      "Sunday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 437,
+    "type": "lab",
+    "code": "CSE420",
+    "sec": "01",
+    "faculty": "DTBI",
+    "time": "04:50 PM - 06:50 PM",
+    "days": [
+      "Monday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 438,
+    "type": "lab",
+    "code": "CSE420",
+    "sec": "02",
+    "faculty": "DTBI",
+    "time": "04:50 PM - 06:50 PM",
+    "days": [
+      "Wednesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 439,
+    "type": "class",
+    "code": "CSE420",
+    "sec": "02",
+    "faculty": "DTBI",
+    "time": "03:10 PM - 04:40 PM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 440,
+    "type": "class",
+    "code": "CSE428",
+    "sec": "01",
+    "faculty": "YS",
+    "time": "03:10 PM - 04:40 PM",
+    "days": [
+      "Tuesday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 441,
+    "type": "lab",
+    "code": "CSE428",
+    "sec": "01",
+    "faculty": "YS",
+    "time": "04:50 PM - 06:50 PM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 442,
+    "type": "lab",
+    "code": "CSE430",
+    "sec": "01",
+    "faculty": "ANIKA",
+    "time": "01:30 PM - 03:30 PM",
+    "days": [
+      "Wednesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 443,
+    "type": "class",
+    "code": "CSE430",
+    "sec": "01",
+    "faculty": "ANIKA",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 444,
+    "type": "class",
+    "code": "CSE430",
+    "sec": "02",
+    "faculty": "SABBIR",
+    "time": "11:50 AM - 01:20 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 445,
+    "type": "lab",
+    "code": "CSE430",
+    "sec": "02",
+    "faculty": "SABBIR",
+    "time": "04:50 PM - 06:50 PM",
+    "days": [
+      "Tuesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 446,
+    "type": "lab",
+    "code": "CSE438",
+    "sec": "01",
+    "faculty": "AASR",
+    "time": "10:10 AM - 12:10 PM",
+    "days": [
+      "Monday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 447,
+    "type": "class",
+    "code": "CSE438",
+    "sec": "01",
+    "faculty": "DAWR",
+    "time": "10:10 AM - 11:40 AM",
+    "days": [
+      "Tuesday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 448,
+    "type": "class",
+    "code": "CSE438",
+    "sec": "02",
+    "faculty": "DAWR",
+    "time": "11:50 AM - 01:20 PM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 449,
+    "type": "lab",
+    "code": "CSE438",
+    "sec": "02",
+    "faculty": "RIFAT",
+    "time": "08:00 AM - 10:00 AM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 450,
+    "type": "lab",
+    "code": "CSE438",
+    "sec": "03",
+    "faculty": "YS",
+    "time": "10:10 AM - 12:10 PM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 451,
+    "type": "class",
+    "code": "CSE438",
+    "sec": "03",
+    "faculty": "DAWR",
+    "time": "10:10 AM - 11:40 AM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 452,
+    "type": "class",
+    "code": "CSE438",
+    "sec": "04",
+    "faculty": "MRAR",
+    "time": "03:10 PM - 04:40 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 453,
+    "type": "lab",
+    "code": "CSE438",
+    "sec": "04",
+    "faculty": "MRAR",
+    "time": "01:30 PM - 03:30 PM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 454,
+    "type": "lab",
+    "code": "CSE453",
+    "sec": "01",
+    "faculty": "TBA",
+    "time": "08:00 AM - 10:00 AM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 455,
+    "type": "class",
+    "code": "CSE453",
+    "sec": "01",
+    "faculty": "TBA",
+    "time": "03:10 PM - 04:40 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 456,
+    "type": "class",
+    "code": "CSE464",
+    "sec": "01",
+    "faculty": "TBA",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 457,
+    "type": "lab",
+    "code": "CSE464",
+    "sec": "01",
+    "faculty": "TBA",
+    "time": "08:00 AM - 10:00 AM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 458,
+    "type": "lab",
+    "code": "CSE475",
+    "sec": "01",
+    "faculty": "MRAR",
+    "time": "04:50 PM - 06:50 PM",
+    "days": [
+      "Tuesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 459,
+    "type": "class",
+    "code": "CSE475",
+    "sec": "01",
+    "faculty": "MRAR",
+    "time": "11:50 AM - 01:20 PM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 460,
+    "type": "class",
+    "code": "CSE475",
+    "sec": "02",
+    "faculty": "DRUI",
+    "time": "11:50 AM - 01:20 PM",
+    "days": [
+      "Tuesday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 461,
+    "type": "lab",
+    "code": "CSE475",
+    "sec": "02",
+    "faculty": "DRUI",
+    "time": "10:10 AM - 12:10 PM",
+    "days": [
+      "Wednesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 462,
+    "type": "lab",
+    "code": "CSE475",
+    "sec": "03",
+    "faculty": "DMIM",
+    "time": "10:10 AM - 12:10 PM",
+    "days": [
+      "Monday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 463,
+    "type": "class",
+    "code": "CSE475",
+    "sec": "03",
+    "faculty": "DMIM",
+    "time": "08:30 AM - 10:00 AM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 464,
+    "type": "class",
+    "code": "CSE475",
+    "sec": "04",
+    "faculty": "ATIQ",
+    "time": "03:10 PM - 04:40 PM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 465,
+    "type": "lab",
+    "code": "CSE475",
+    "sec": "04",
+    "faculty": "ATIQ",
+    "time": "04:50 PM - 06:50 PM",
+    "days": [
+      "Monday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 466,
+    "type": "lab",
+    "code": "CSE475",
+    "sec": "05",
+    "faculty": "ATIQ",
+    "time": "04:50 PM - 06:50 PM",
+    "days": [
+      "Wednesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 467,
+    "type": "class",
+    "code": "CSE475",
+    "sec": "05",
+    "faculty": "ATIQ",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 468,
+    "type": "class",
+    "code": "CSE477",
+    "sec": "01",
+    "faculty": "AMITM",
+    "time": "01:30 PM - 03:00 PM",
+    "days": [
+      "Thursday",
+      "Sunday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 469,
+    "type": "lab",
+    "code": "CSE477",
+    "sec": "01",
+    "faculty": "AMITM",
+    "time": "10:10 AM - 12:10 PM",
+    "days": [
+      "Monday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 470,
+    "type": "lab",
+    "code": "CSE477",
+    "sec": "02",
+    "faculty": "AMITM",
+    "time": "08:00 AM - 10:00 AM",
+    "days": [
+      "Tuesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 471,
+    "type": "class",
+    "code": "CSE477",
+    "sec": "02",
+    "faculty": "AMITM",
+    "time": "08:30 AM - 10:00 AM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 472,
+    "type": "class",
+    "code": "CSE477",
+    "sec": "03",
+    "faculty": "TBA",
+    "time": "03:10 PM - 04:40 PM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 473,
+    "type": "lab",
+    "code": "CSE477",
+    "sec": "03",
+    "faculty": "TBA",
+    "time": "04:50 PM - 06:50 PM",
+    "days": [
+      "Wednesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 474,
+    "type": "lab",
+    "code": "CSE479",
+    "sec": "01",
+    "faculty": "NTN",
+    "time": "04:50 PM - 06:50 PM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 475,
+    "type": "class",
+    "code": "CSE479",
+    "sec": "01",
+    "faculty": "NTN",
+    "time": "08:30 AM - 10:00 AM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 476,
+    "type": "class",
+    "code": "CSE479",
+    "sec": "02",
+    "faculty": "ARMAN",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 477,
+    "type": "lab",
+    "code": "CSE479",
+    "sec": "02",
+    "faculty": "ARMAN",
+    "time": "10:10 AM - 12:10 PM",
+    "days": [
+      "Tuesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 478,
+    "type": "lab",
+    "code": "CSE479",
+    "sec": "03",
+    "faculty": "ARMAN",
+    "time": "01:30 PM - 03:30 PM",
+    "days": [
+      "Tuesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 479,
+    "type": "class",
+    "code": "CSE479",
+    "sec": "03",
+    "faculty": "ARMAN",
+    "time": "01:30 PM - 03:00 PM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 480,
+    "type": "class",
+    "code": "CSE479",
+    "sec": "04",
+    "faculty": "TBA",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 481,
+    "type": "lab",
+    "code": "CSE479",
+    "sec": "04",
+    "faculty": "TBA",
+    "time": "04:50 PM - 06:50 PM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 482,
+    "type": "class",
+    "code": "CSE487",
+    "sec": "01",
+    "faculty": "DAHF",
+    "time": "11:50 AM - 01:20 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 483,
+    "type": "class",
+    "code": "CSE487",
+    "sec": "02",
+    "faculty": "DAHF",
+    "time": "01:30 PM - 03:00 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 484,
+    "type": "class",
+    "code": "CSE487",
+    "sec": "03",
+    "faculty": "MAHCY",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 485,
+    "type": "class",
+    "code": "CSE487",
+    "sec": "04",
+    "faculty": "TBA",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 486,
+    "type": "lab",
+    "code": "CSE488",
+    "sec": "01",
+    "faculty": "DMRH",
+    "time": "01:30 PM - 03:30 PM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 487,
+    "type": "class",
+    "code": "CSE488",
+    "sec": "01",
+    "faculty": "DMRH",
+    "time": "01:30 PM - 03:00 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 488,
+    "type": "class",
+    "code": "CSE489",
+    "sec": "01",
+    "faculty": "MKR",
+    "time": "11:50 AM - 01:20 PM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 489,
+    "type": "lab",
+    "code": "CSE489",
+    "sec": "01",
+    "faculty": "MKR",
+    "time": "08:00 AM - 10:00 AM",
+    "days": [
+      "Monday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 490,
+    "type": "lab",
+    "code": "CSE489",
+    "sec": "02",
+    "faculty": "TBA",
+    "time": "08:00 AM - 10:00 AM",
+    "days": [
+      "Wednesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 491,
+    "type": "class",
+    "code": "CSE489",
+    "sec": "02",
+    "faculty": "TBA",
+    "time": "10:10 AM - 11:40 AM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 492,
+    "type": "class",
+    "code": "CSE495",
+    "sec": "01",
+    "faculty": "SDIS",
+    "time": "01:30 PM - 03:00 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 493,
+    "type": "class",
+    "code": "CSE495",
+    "sec": "02",
+    "faculty": "DCR",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 494,
+    "type": "class",
+    "code": "CSE495",
+    "sec": "03",
+    "faculty": "DCR",
+    "time": "06:30 PM - 08:00 PM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 495,
+    "type": "lab",
+    "code": "CSE497",
+    "sec": "01",
+    "faculty": "TBA",
+    "time": "12:00 PM - 03:59 PM",
+    "days": [
+      "Friday"
+    ],
+    "duration": 239
+  },
+  {
+    "id": 496,
+    "type": "lab",
+    "code": "CSE504",
+    "sec": "01",
+    "faculty": "DMSR",
+    "time": "09:00 AM - 12:00 PM",
+    "days": [
+      null
+    ],
+    "duration": 180
+  },
+  {
+    "id": 497,
+    "type": "lab",
+    "code": "CSE505",
+    "sec": "01",
+    "faculty": "TBA",
+    "time": "06:30 PM - 09:30 PM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 498,
+    "type": "lab",
+    "code": "CSE520",
+    "sec": "01",
+    "faculty": "TBA",
+    "time": "06:30 PM - 09:30 PM",
+    "days": [
+      "Monday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 499,
+    "type": "lab",
+    "code": "CSE523",
+    "sec": "01",
+    "faculty": "TBA",
+    "time": "06:30 PM - 09:30 PM",
+    "days": [
+      "Tuesday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 500,
+    "type": "lab",
+    "code": "CSE526",
+    "sec": "01",
+    "faculty": "TBA",
+    "time": "06:30 PM - 09:30 PM",
+    "days": [
+      "Wednesday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 501,
+    "type": "lab",
+    "code": "CSE527",
+    "sec": "01",
+    "faculty": "TBA",
+    "time": "06:30 PM - 09:30 PM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 502,
+    "type": "lab",
+    "code": "CSE550",
+    "sec": "01",
+    "faculty": "TBA",
+    "time": "06:30 PM - 09:30 PM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 503,
+    "type": "lab",
+    "code": "CSE555",
+    "sec": "01",
+    "faculty": "TBA",
+    "time": "06:30 PM - 09:30 PM",
+    "days": [
+      "Monday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 504,
+    "type": "lab",
+    "code": "CSE556",
+    "sec": "01",
+    "faculty": "TBA",
+    "time": "06:30 PM - 09:30 PM",
+    "days": [
+      "Tuesday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 505,
+    "type": "lab",
+    "code": "CSE597",
+    "sec": "01",
+    "faculty": "TBA",
+    "time": "06:30 PM - 09:30 PM",
+    "days": [
+      "Wednesday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 506,
+    "type": "lab",
+    "code": "CSE599",
+    "sec": "01",
+    "faculty": "TBA",
+    "time": "06:30 PM - 09:30 PM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 507,
+    "type": "class",
+    "code": "ETE496A",
+    "sec": "01",
+    "faculty": "TBA",
+    "time": "09:00 AM - 10:00 AM",
+    "days": [
+      "Friday"
+    ],
+    "duration": 60
+  },
+  {
+    "id": 508,
+    "type": "class",
+    "code": "ETE496B",
+    "sec": "01",
+    "faculty": "TBA",
+    "time": "10:00 AM - 11:00 AM",
+    "days": [
+      "Friday"
+    ],
+    "duration": 60
+  },
+  {
+    "id": 509,
+    "type": "class",
+    "code": "ETE496C",
+    "sec": "01",
+    "faculty": "TBA",
+    "time": "",
+    "days": [],
+    "duration": null
+  },
+  {
+    "id": 510,
+    "type": "class",
+    "code": "ETE498",
+    "sec": "01",
+    "faculty": "TBA",
+    "time": "",
+    "days": [],
+    "duration": null
+  },
+  {
+    "id": 511,
+    "type": "class",
+    "code": "ICE103",
+    "sec": "01",
+    "faculty": "TJ",
+    "time": "01:30 PM - 03:00 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 512,
+    "type": "lab",
+    "code": "ICE103",
+    "sec": "01",
+    "faculty": "TJ",
+    "time": "03:10 PM - 06:10 PM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 513,
+    "type": "class",
+    "code": "ICE103",
+    "sec": "02",
+    "faculty": "TJ",
+    "time": "03:10 PM - 04:40 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 514,
+    "type": "lab",
+    "code": "ICE103",
+    "sec": "02",
+    "faculty": "TJ",
+    "time": "03:10 PM - 06:10 PM",
+    "days": [
+      "Tuesday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 515,
+    "type": "class",
+    "code": "ICE103",
+    "sec": "03",
+    "faculty": "MI",
+    "time": "10:10 AM - 11:40 AM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 516,
+    "type": "lab",
+    "code": "ICE103",
+    "sec": "03",
+    "faculty": "MI",
+    "time": "10:10 AM - 01:10 PM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 517,
+    "type": "class",
+    "code": "ICE103",
+    "sec": "04",
+    "faculty": "MI",
+    "time": "11:50 AM - 01:20 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 518,
+    "type": "lab",
+    "code": "ICE103",
+    "sec": "04",
+    "faculty": "MI",
+    "time": "10:10 AM - 01:10 PM",
+    "days": [
+      "Tuesday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 519,
+    "type": "class",
+    "code": "ICE103",
+    "sec": "05",
+    "faculty": "DAHF",
+    "time": "01:30 PM - 03:00 PM",
+    "days": [
+      "Thursday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 520,
+    "type": "lab",
+    "code": "ICE103",
+    "sec": "05",
+    "faculty": "DAHF",
+    "time": "04:50 PM - 07:50 PM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 521,
+    "type": "class",
+    "code": "ICE103",
+    "sec": "06",
+    "faculty": "DAHF",
+    "time": "11:50 AM - 01:20 PM",
+    "days": [
+      "Thursday",
+      "Sunday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 522,
+    "type": "lab",
+    "code": "ICE103",
+    "sec": "06",
+    "faculty": "DAHF",
+    "time": "04:50 PM - 07:50 PM",
+    "days": [
+      "Tuesday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 523,
+    "type": "class",
+    "code": "ICE103",
+    "sec": "07",
+    "faculty": "MRJ",
+    "time": "01:30 PM - 03:00 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 524,
+    "type": "lab",
+    "code": "ICE103",
+    "sec": "07",
+    "faculty": "MRJ",
+    "time": "01:30 PM - 04:30 PM",
+    "days": [
+      "Tuesday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 525,
+    "type": "class",
+    "code": "ICE103",
+    "sec": "08",
+    "faculty": "RIFAT",
+    "time": "01:30 PM - 03:00 PM",
+    "days": [
+      "Tuesday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 526,
+    "type": "lab",
+    "code": "ICE103",
+    "sec": "08",
+    "faculty": "RIFAT",
+    "time": "10:10 AM - 01:10 PM",
+    "days": [
+      "Monday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 527,
+    "type": "class",
+    "code": "ICE103",
+    "sec": "09",
+    "faculty": "NISHAT",
+    "time": "01:30 PM - 03:00 PM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 528,
+    "type": "class",
+    "code": "ICE103",
+    "sec": "09",
+    "faculty": "NISHAT",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 529,
+    "type": "class",
+    "code": "ICE103",
+    "sec": "10",
+    "faculty": "FZRN",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 530,
+    "type": "lab",
+    "code": "ICE103",
+    "sec": "10",
+    "faculty": "FZRN",
+    "time": "10:10 AM - 01:10 PM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 531,
+    "type": "class",
+    "code": "ICE103",
+    "sec": "11",
+    "faculty": "FZRN",
+    "time": "03:10 PM - 04:40 PM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 532,
+    "type": "lab",
+    "code": "ICE103",
+    "sec": "11",
+    "faculty": "FZRN",
+    "time": "10:10 AM - 01:10 PM",
+    "days": [
+      "Wednesday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 533,
+    "type": "class",
+    "code": "ICE103",
+    "sec": "12",
+    "faculty": "PC",
+    "time": "08:30 AM - 10:00 AM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 534,
+    "type": "lab",
+    "code": "ICE103",
+    "sec": "12",
+    "faculty": "PC",
+    "time": "04:50 PM - 07:50 PM",
+    "days": [
+      "Monday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 535,
+    "type": "class",
+    "code": "ICE103",
+    "sec": "13",
+    "faculty": "PC",
+    "time": "10:10 AM - 11:40 AM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 536,
+    "type": "lab",
+    "code": "ICE103",
+    "sec": "13",
+    "faculty": "PC",
+    "time": "01:30 PM - 04:30 PM",
+    "days": [
+      "Tuesday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 537,
+    "type": "class",
+    "code": "ICE103",
+    "sec": "14",
+    "faculty": "SAJEEB",
+    "time": "01:30 PM - 03:00 PM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 538,
+    "type": "lab",
+    "code": "ICE103",
+    "sec": "14",
+    "faculty": "SAJEEB",
+    "time": "04:50 PM - 07:50 PM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 539,
+    "type": "class",
+    "code": "ICE103",
+    "sec": "15",
+    "faculty": "SAJEEB",
+    "time": "03:10 PM - 04:40 PM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 540,
+    "type": "lab",
+    "code": "ICE103",
+    "sec": "15",
+    "faculty": "SAJEEB",
+    "time": "04:50 PM - 07:50 PM",
+    "days": [
+      "Tuesday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 541,
+    "type": "lab",
+    "code": "ICE103",
+    "sec": "16",
+    "faculty": "KMMU",
+    "time": "04:50 PM - 07:50 PM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 542,
+    "type": "class",
+    "code": "ICE103",
+    "sec": "16",
+    "faculty": "KMMU",
+    "time": "01:30 PM - 03:00 PM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 543,
+    "type": "lab",
+    "code": "ICE103",
+    "sec": "17",
+    "faculty": "KMMU",
+    "time": "04:50 PM - 07:50 PM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 544,
+    "type": "class",
+    "code": "ICE103",
+    "sec": "17",
+    "faculty": "KMMU",
+    "time": "03:10 PM - 04:40 PM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 545,
+    "type": "class",
+    "code": "ICE103",
+    "sec": "18",
+    "faculty": "MAHCY",
+    "time": "08:30 AM - 10:00 AM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 546,
+    "type": "lab",
+    "code": "ICE103",
+    "sec": "18",
+    "faculty": "MAHCY",
+    "time": "01:30 PM - 04:30 PM",
+    "days": [
+      "Tuesday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 547,
+    "type": "class",
+    "code": "ICE103",
+    "sec": "19",
+    "faculty": "TBA",
+    "time": "08:30 AM - 10:00 AM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 548,
+    "type": "lab",
+    "code": "ICE103",
+    "sec": "19",
+    "faculty": "TBA",
+    "time": "08:00 AM - 11:00 AM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 549,
+    "type": "lab",
+    "code": "ICE103",
+    "sec": "20",
+    "faculty": "TBA",
+    "time": "04:50 PM - 06:50 PM",
+    "days": [
+      "Monday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 550,
+    "type": "class",
+    "code": "ICE103",
+    "sec": "20",
+    "faculty": "TBA",
+    "time": "08:30 AM - 10:00 AM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 551,
+    "type": "class",
+    "code": "ICE103",
+    "sec": "21",
+    "faculty": "TBA",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 552,
+    "type": "lab",
+    "code": "ICE103",
+    "sec": "21",
+    "faculty": "TBA",
+    "time": "08:00 AM - 10:00 AM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 553,
+    "type": "class",
+    "code": "ICE103",
+    "sec": "22",
+    "faculty": "TBA",
+    "time": "08:30 AM - 10:00 AM",
+    "days": [
+      "Thursday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 554,
+    "type": "lab",
+    "code": "ICE103",
+    "sec": "22",
+    "faculty": "TBA",
+    "time": "08:00 AM - 10:00 AM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 555,
+    "type": "class",
+    "code": "ICE103",
+    "sec": "23",
+    "faculty": "TBA",
+    "time": "03:10 PM - 04:40 PM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 556,
+    "type": "lab",
+    "code": "ICE103",
+    "sec": "23",
+    "faculty": "TBA",
+    "time": "04:50 PM - 07:50 PM",
+    "days": [
+      "Wednesday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 557,
+    "type": "class",
+    "code": "ICE103",
+    "sec": "24",
+    "faculty": "TBA",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Tuesday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 558,
+    "type": "lab",
+    "code": "ICE103",
+    "sec": "24",
+    "faculty": "TBA",
+    "time": "08:00 AM - 10:00 AM",
+    "days": [
+      "Wednesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 559,
+    "type": "class",
+    "code": "ICE103",
+    "sec": "25",
+    "faculty": "TBA",
+    "time": "03:10 PM - 04:40 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 560,
+    "type": "lab",
+    "code": "ICE103",
+    "sec": "25",
+    "faculty": "TBA",
+    "time": "08:00 AM - 11:00 AM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 561,
+    "type": "class",
+    "code": "ICE107",
+    "sec": "01",
+    "faculty": "DAKP",
+    "time": "10:10 AM - 11:40 AM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 562,
+    "type": "lab",
+    "code": "ICE107",
+    "sec": "01",
+    "faculty": "DAKP",
+    "time": "08:00 AM - 11:00 AM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 563,
+    "type": "class",
+    "code": "ICE107",
+    "sec": "02",
+    "faculty": "DAKP",
+    "time": "11:50 AM - 01:20 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 564,
+    "type": "lab",
+    "code": "ICE107",
+    "sec": "02",
+    "faculty": "DAKP",
+    "time": "11:50 AM - 02:50 PM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 565,
+    "type": "class",
+    "code": "ICE107",
+    "sec": "03",
+    "faculty": "DSU",
+    "time": "01:30 PM - 03:00 PM",
+    "days": [
+      "Tuesday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 566,
+    "type": "lab",
+    "code": "ICE107",
+    "sec": "03",
+    "faculty": "DSU",
+    "time": "10:10 AM - 01:10 PM",
+    "days": [
+      "Wednesday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 567,
+    "type": "class",
+    "code": "ICE107",
+    "sec": "04",
+    "faculty": "TM",
+    "time": "11:50 AM - 01:20 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 568,
+    "type": "lab",
+    "code": "ICE107",
+    "sec": "04",
+    "faculty": "TM",
+    "time": "10:10 AM - 01:10 PM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 569,
+    "type": "class",
+    "code": "ICE107",
+    "sec": "05",
+    "faculty": "IMRAN",
+    "time": "11:50 AM - 01:20 PM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 570,
+    "type": "lab",
+    "code": "ICE107",
+    "sec": "05",
+    "faculty": "IMRAN",
+    "time": "10:10 AM - 01:10 PM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 571,
+    "type": "class",
+    "code": "ICE107",
+    "sec": "06",
+    "faculty": "SDIS",
+    "time": "10:10 AM - 11:40 AM",
+    "days": [
+      "Thursday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 572,
+    "type": "lab",
+    "code": "ICE107",
+    "sec": "06",
+    "faculty": "SDIS",
+    "time": "04:50 PM - 07:50 PM",
+    "days": [
+      "Monday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 573,
+    "type": "lab",
+    "code": "ICE107",
+    "sec": "07",
+    "faculty": "SDNA",
+    "time": "03:10 PM - 06:10 PM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 574,
+    "type": "class",
+    "code": "ICE107",
+    "sec": "07",
+    "faculty": "SDNA",
+    "time": "03:10 PM - 04:40 PM",
+    "days": [
+      "Thursday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 575,
+    "type": "class",
+    "code": "ICE107",
+    "sec": "08",
+    "faculty": "FZRN",
+    "time": "08:30 AM - 10:00 AM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 576,
+    "type": "lab",
+    "code": "ICE107",
+    "sec": "08",
+    "faculty": "FZRN",
+    "time": "04:50 PM - 07:50 PM",
+    "days": [
+      "Tuesday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 577,
+    "type": "class",
+    "code": "ICE107",
+    "sec": "09",
+    "faculty": "ARIJIT",
+    "time": "03:10 PM - 04:40 PM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 578,
+    "type": "lab",
+    "code": "ICE107",
+    "sec": "09",
+    "faculty": "ARIJIT",
+    "time": "04:50 PM - 07:50 PM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 579,
+    "type": "class",
+    "code": "ICE107",
+    "sec": "10",
+    "faculty": "SUDDIN",
+    "time": "03:10 PM - 04:40 PM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 580,
+    "type": "lab",
+    "code": "ICE107",
+    "sec": "10",
+    "faculty": "SUDDIN",
+    "time": "04:50 PM - 07:50 PM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 581,
+    "type": "class",
+    "code": "ICE107",
+    "sec": "11",
+    "faculty": "TBA",
+    "time": "03:10 PM - 04:40 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 582,
+    "type": "lab",
+    "code": "ICE107",
+    "sec": "11",
+    "faculty": "TBA",
+    "time": "04:50 PM - 07:50 PM",
+    "days": [
+      "Wednesday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 583,
+    "type": "lab",
+    "code": "ICE107",
+    "sec": "12",
+    "faculty": "TBA",
+    "time": "11:50 AM - 02:50 PM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 584,
+    "type": "class",
+    "code": "ICE107",
+    "sec": "12",
+    "faculty": "TBA",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 585,
+    "type": "class",
+    "code": "ICE107",
+    "sec": "13",
+    "faculty": "TBA",
+    "time": "08:30 AM - 10:00 AM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 586,
+    "type": "lab",
+    "code": "ICE107",
+    "sec": "13",
+    "faculty": "TBA",
+    "time": "11:50 AM - 02:50 PM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 587,
+    "type": "class",
+    "code": "ICE107",
+    "sec": "14",
+    "faculty": "TBA",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Tuesday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 588,
+    "type": "lab",
+    "code": "ICE107",
+    "sec": "14",
+    "faculty": "TBA",
+    "time": "11:50 AM - 02:50 PM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 589,
+    "type": "class",
+    "code": "ICE107",
+    "sec": "15",
+    "faculty": "TBA",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 590,
+    "type": "lab",
+    "code": "ICE107",
+    "sec": "15",
+    "faculty": "TBA",
+    "time": "11:50 AM - 02:50 PM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 591,
+    "type": "class",
+    "code": "ICE109",
+    "sec": "01",
+    "faculty": "SJ",
+    "time": "11:50 AM - 01:20 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 592,
+    "type": "lab",
+    "code": "ICE109",
+    "sec": "01",
+    "faculty": "SJ",
+    "time": "01:30 PM - 03:30 PM",
+    "days": [
+      "Tuesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 593,
+    "type": "class",
+    "code": "ICE109",
+    "sec": "02",
+    "faculty": "ALI",
+    "time": "01:30 PM - 03:00 PM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 594,
+    "type": "lab",
+    "code": "ICE109",
+    "sec": "02",
+    "faculty": "ALI",
+    "time": "01:30 PM - 03:30 PM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 595,
+    "type": "class",
+    "code": "ICE109",
+    "sec": "03",
+    "faculty": "SHK",
+    "time": "01:30 PM - 03:00 PM",
+    "days": [
+      "Thursday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 596,
+    "type": "lab",
+    "code": "ICE109",
+    "sec": "03",
+    "faculty": "SHK",
+    "time": "04:50 PM - 06:50 PM",
+    "days": [
+      "Wednesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 597,
+    "type": "lab",
+    "code": "ICE109",
+    "sec": "04",
+    "faculty": "SHK",
+    "time": "10:10 AM - 12:00 PM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 110
+  },
+  {
+    "id": 598,
+    "type": "class",
+    "code": "ICE109",
+    "sec": "04",
+    "faculty": "SHK",
+    "time": "03:10 PM - 04:40 PM",
+    "days": [
+      "Thursday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 599,
+    "type": "class",
+    "code": "ICE109",
+    "sec": "05",
+    "faculty": "MKN",
+    "time": "10:10 AM - 11:40 AM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 600,
+    "type": "lab",
+    "code": "ICE109",
+    "sec": "05",
+    "faculty": "MKN",
+    "time": "01:30 PM - 03:30 PM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 601,
+    "type": "lab",
+    "code": "ICE109",
+    "sec": "06",
+    "faculty": "DOF",
+    "time": "04:50 PM - 06:50 PM",
+    "days": [
+      "Tuesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 602,
+    "type": "class",
+    "code": "ICE109",
+    "sec": "06",
+    "faculty": "DOF",
+    "time": "01:30 PM - 03:00 PM",
+    "days": [
+      "Tuesday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 603,
+    "type": "class",
+    "code": "ICE109",
+    "sec": "07",
+    "faculty": "DOF",
+    "time": "03:10 PM - 04:40 PM",
+    "days": [
+      "Tuesday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 604,
+    "type": "lab",
+    "code": "ICE109",
+    "sec": "07",
+    "faculty": "DOF",
+    "time": "04:50 PM - 06:50 PM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 605,
+    "type": "lab",
+    "code": "ICE109",
+    "sec": "08",
+    "faculty": "DSMU",
+    "time": "04:50 PM - 06:50 PM",
+    "days": [
+      "Monday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 606,
+    "type": "class",
+    "code": "ICE109",
+    "sec": "08",
+    "faculty": "DSMU",
+    "time": "01:30 PM - 03:00 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 607,
+    "type": "class",
+    "code": "ICE109",
+    "sec": "09",
+    "faculty": "DSMU",
+    "time": "03:10 PM - 04:40 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 608,
+    "type": "lab",
+    "code": "ICE109",
+    "sec": "09",
+    "faculty": "DSMU",
+    "time": "04:50 PM - 06:50 PM",
+    "days": [
+      "Wednesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 609,
+    "type": "lab",
+    "code": "ICE109",
+    "sec": "10",
+    "faculty": "SAMIA",
+    "time": "08:00 AM - 10:00 AM",
+    "days": [
+      "Tuesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 610,
+    "type": "class",
+    "code": "ICE109",
+    "sec": "10",
+    "faculty": "SAMIA",
+    "time": "08:30 AM - 10:00 AM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 611,
+    "type": "class",
+    "code": "ICE109",
+    "sec": "11",
+    "faculty": "SAMIA",
+    "time": "10:10 AM - 11:40 AM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 612,
+    "type": "lab",
+    "code": "ICE109",
+    "sec": "11",
+    "faculty": "SAMIA",
+    "time": "10:10 AM - 12:10 PM",
+    "days": [
+      "Tuesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 613,
+    "type": "lab",
+    "code": "ICE109",
+    "sec": "12",
+    "faculty": "TBA",
+    "time": "08:00 AM - 10:00 AM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 614,
+    "type": "class",
+    "code": "ICE109",
+    "sec": "12",
+    "faculty": "TBA",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 615,
+    "type": "class",
+    "code": "ICE109",
+    "sec": "13",
+    "faculty": "TBA",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 616,
+    "type": "class",
+    "code": "ICE109",
+    "sec": "13",
+    "faculty": "TBA",
+    "time": "03:50 PM - 05:05 PM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 75
+  },
+  {
+    "id": 617,
+    "type": "class",
+    "code": "ICE109",
+    "sec": "14",
+    "faculty": "TBA",
+    "time": "08:30 AM - 10:00 AM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 618,
+    "type": "lab",
+    "code": "ICE109",
+    "sec": "14",
+    "faculty": "TBA",
+    "time": "08:00 AM - 10:00 AM",
+    "days": [
+      "Monday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 619,
+    "type": "class",
+    "code": "ICE109",
+    "sec": "15",
+    "faculty": "TBA",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 620,
+    "type": "lab",
+    "code": "ICE109",
+    "sec": "15",
+    "faculty": "TBA",
+    "time": "01:30 PM - 03:30 PM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 621,
+    "type": "class",
+    "code": "ICE204",
+    "sec": "01",
+    "faculty": "MHAK",
+    "time": "10:10 AM - 11:40 AM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 622,
+    "type": "class",
+    "code": "ICE204",
+    "sec": "02",
+    "faculty": "MHAK",
+    "time": "01:30 PM - 03:00 PM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 623,
+    "type": "class",
+    "code": "ICE204",
+    "sec": "03",
+    "faculty": "MHAK",
+    "time": "10:10 AM - 11:40 AM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 624,
+    "type": "class",
+    "code": "ICE204",
+    "sec": "04",
+    "faculty": "DSU",
+    "time": "03:10 PM - 04:40 PM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 625,
+    "type": "class",
+    "code": "ICE204",
+    "sec": "05",
+    "faculty": "DSU",
+    "time": "08:30 AM - 10:00 AM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 626,
+    "type": "class",
+    "code": "ICE204",
+    "sec": "06",
+    "faculty": "AASR",
+    "time": "01:30 PM - 03:00 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 627,
+    "type": "class",
+    "code": "ICE204",
+    "sec": "07",
+    "faculty": "AASR",
+    "time": "03:10 PM - 04:10 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 60
+  },
+  {
+    "id": 628,
+    "type": "class",
+    "code": "ICE204",
+    "sec": "08",
+    "faculty": "SDNA",
+    "time": "11:50 AM - 01:20 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 629,
+    "type": "class",
+    "code": "ICE204",
+    "sec": "09",
+    "faculty": "SDNA",
+    "time": "01:30 PM - 03:00 PM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 630,
+    "type": "lab",
+    "code": "ICE204",
+    "sec": "10",
+    "faculty": "SDNA",
+    "time": "11:20 AM - 01:20 PM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 631,
+    "type": "class",
+    "code": "ICE204",
+    "sec": "10",
+    "faculty": "SDNA",
+    "time": "11:50 AM - 01:20 PM",
+    "days": [
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 632,
+    "type": "class",
+    "code": "ICE204",
+    "sec": "11",
+    "faculty": "MAHCY",
+    "time": "11:50 AM - 01:20 PM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 633,
+    "type": "class",
+    "code": "ICE204",
+    "sec": "12",
+    "faculty": "MAHCY",
+    "time": "03:10 PM - 04:40 PM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 634,
+    "type": "class",
+    "code": "ICE204",
+    "sec": "13",
+    "faculty": "TBA",
+    "time": "03:10 PM - 04:40 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 635,
+    "type": "class",
+    "code": "ICE204",
+    "sec": "14",
+    "faculty": "TBA",
+    "time": "08:30 AM - 10:00 AM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 636,
+    "type": "class",
+    "code": "ICE204",
+    "sec": "15",
+    "faculty": "TBA",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 637,
+    "type": "class",
+    "code": "ICE204",
+    "sec": "16",
+    "faculty": "TBA",
+    "time": "08:30 AM - 10:00 AM",
+    "days": [
+      "Thursday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 638,
+    "type": "class",
+    "code": "ICE204",
+    "sec": "17",
+    "faculty": "TBA",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Tuesday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 639,
+    "type": "class",
+    "code": "ICE204",
+    "sec": "18",
+    "faculty": "TBA",
+    "time": "08:30 AM - 10:00 AM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 640,
+    "type": "class",
+    "code": "ICE204",
+    "sec": "19",
+    "faculty": "TBA",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 641,
+    "type": "class",
+    "code": "ICE204",
+    "sec": "20",
+    "faculty": "TBA",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 642,
+    "type": "lab",
+    "code": "ICE207",
+    "sec": "01",
+    "faculty": "DAKP",
+    "time": "01:30 PM - 03:30 PM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 643,
+    "type": "class",
+    "code": "ICE207",
+    "sec": "01",
+    "faculty": "DAKP",
+    "time": "11:50 AM - 01:20 PM",
+    "days": [
+      "Tuesday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 644,
+    "type": "lab",
+    "code": "ICE207",
+    "sec": "02",
+    "faculty": "ATIQ",
+    "time": "01:30 PM - 03:30 PM",
+    "days": [
+      "Tuesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 645,
+    "type": "class",
+    "code": "ICE207",
+    "sec": "02",
+    "faculty": "ATIQ",
+    "time": "11:50 AM - 01:20 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 646,
+    "type": "class",
+    "code": "ICE207",
+    "sec": "03",
+    "faculty": "ATIQ",
+    "time": "01:30 PM - 03:00 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 647,
+    "type": "lab",
+    "code": "ICE207",
+    "sec": "03",
+    "faculty": "ATIQ",
+    "time": "04:50 PM - 06:50 PM",
+    "days": [
+      "Tuesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 648,
+    "type": "class",
+    "code": "ICE207",
+    "sec": "04",
+    "faculty": "DHMAI",
+    "time": "01:30 PM - 03:00 PM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 649,
+    "type": "lab",
+    "code": "ICE207",
+    "sec": "04",
+    "faculty": "DHMAI",
+    "time": "04:50 PM - 06:50 PM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 650,
+    "type": "lab",
+    "code": "ICE207",
+    "sec": "05",
+    "faculty": "DHMAI",
+    "time": "04:50 PM - 06:50 PM",
+    "days": [
+      "Wednesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 651,
+    "type": "class",
+    "code": "ICE207",
+    "sec": "05",
+    "faculty": "DHMAI",
+    "time": "03:10 PM - 04:40 PM",
+    "days": [
+      "Tuesday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 652,
+    "type": "lab",
+    "code": "ICE207",
+    "sec": "06",
+    "faculty": "TM",
+    "time": "01:30 PM - 03:30 PM",
+    "days": [
+      "Monday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 653,
+    "type": "class",
+    "code": "ICE207",
+    "sec": "06",
+    "faculty": "TM",
+    "time": "10:10 AM - 11:40 AM",
+    "days": [
+      "Thursday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 654,
+    "type": "class",
+    "code": "ICE207",
+    "sec": "07",
+    "faculty": "TM",
+    "time": "11:50 AM - 01:20 PM",
+    "days": [
+      "Tuesday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 655,
+    "type": "lab",
+    "code": "ICE207",
+    "sec": "07",
+    "faculty": "TM",
+    "time": "01:30 PM - 03:30 PM",
+    "days": [
+      "Wednesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 656,
+    "type": "lab",
+    "code": "ICE207",
+    "sec": "08",
+    "faculty": "AASR",
+    "time": "08:00 AM - 10:00 AM",
+    "days": [
+      "Tuesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 657,
+    "type": "class",
+    "code": "ICE207",
+    "sec": "08",
+    "faculty": "AASR",
+    "time": "08:30 AM - 10:00 AM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 658,
+    "type": "class",
+    "code": "ICE207",
+    "sec": "09",
+    "faculty": "AASR",
+    "time": "10:10 AM - 11:40 AM",
+    "days": [
+      "Thursday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 659,
+    "type": "lab",
+    "code": "ICE207",
+    "sec": "09",
+    "faculty": "AASR",
+    "time": "10:10 AM - 12:10 PM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 660,
+    "type": "lab",
+    "code": "ICE207",
+    "sec": "10",
+    "faculty": "MMLI",
+    "time": "04:50 PM - 06:50 PM",
+    "days": [
+      "Monday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 661,
+    "type": "class",
+    "code": "ICE207",
+    "sec": "10",
+    "faculty": "MMLI",
+    "time": "01:30 PM - 03:00 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 662,
+    "type": "class",
+    "code": "ICE207",
+    "sec": "11",
+    "faculty": "MMLI",
+    "time": "03:10 PM - 04:40 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 663,
+    "type": "lab",
+    "code": "ICE207",
+    "sec": "11",
+    "faculty": "MMLI",
+    "time": "04:50 PM - 06:50 PM",
+    "days": [
+      "Wednesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 664,
+    "type": "class",
+    "code": "ICE207",
+    "sec": "12",
+    "faculty": "PC",
+    "time": "01:30 PM - 03:00 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 665,
+    "type": "lab",
+    "code": "ICE207",
+    "sec": "12",
+    "faculty": "PC",
+    "time": "10:10 AM - 12:10 PM",
+    "days": [
+      "Wednesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 666,
+    "type": "class",
+    "code": "ICE207",
+    "sec": "13",
+    "faculty": "TBA",
+    "time": "08:30 AM - 10:00 AM",
+    "days": [
+      "Tuesday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 667,
+    "type": "lab",
+    "code": "ICE207",
+    "sec": "13",
+    "faculty": "TBA",
+    "time": "08:00 AM - 10:00 AM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 668,
+    "type": "class",
+    "code": "ICE207",
+    "sec": "14",
+    "faculty": "TBA",
+    "time": "11:50 AM - 12:50 PM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 60
+  },
+  {
+    "id": 669,
+    "type": "class",
+    "code": "ICE207",
+    "sec": "14",
+    "faculty": "TBA",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Tuesday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 670,
+    "type": "lab",
+    "code": "ICE207",
+    "sec": "15",
+    "faculty": "TBA",
+    "time": "01:30 PM - 03:30 PM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 671,
+    "type": "class",
+    "code": "ICE207",
+    "sec": "15",
+    "faculty": "TBA",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Tuesday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 672,
+    "type": "lab",
+    "code": "ICE213",
+    "sec": "01",
+    "faculty": "MHR",
+    "time": "08:00 AM - 10:00 AM",
+    "days": [
+      "Monday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 673,
+    "type": "class",
+    "code": "ICE213",
+    "sec": "01",
+    "faculty": "MHR",
+    "time": "10:10 AM - 11:40 AM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 674,
+    "type": "class",
+    "code": "ICE213",
+    "sec": "02",
+    "faculty": "MHR",
+    "time": "11:50 AM - 01:20 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 675,
+    "type": "lab",
+    "code": "ICE213",
+    "sec": "02",
+    "faculty": "MHR",
+    "time": "08:00 AM - 10:00 AM",
+    "days": [
+      "Wednesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 676,
+    "type": "class",
+    "code": "ICE213",
+    "sec": "03",
+    "faculty": "SJ",
+    "time": "10:10 AM - 11:40 AM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 677,
+    "type": "lab",
+    "code": "ICE213",
+    "sec": "03",
+    "faculty": "SJ",
+    "time": "10:10 AM - 12:10 PM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 678,
+    "type": "lab",
+    "code": "ICE213",
+    "sec": "04",
+    "faculty": "SJ",
+    "time": "01:30 PM - 03:30 PM",
+    "days": [
+      "Monday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 679,
+    "type": "class",
+    "code": "ICE213",
+    "sec": "04",
+    "faculty": "SJ",
+    "time": "11:50 AM - 01:20 PM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 680,
+    "type": "class",
+    "code": "ICE213",
+    "sec": "05",
+    "faculty": "RDA",
+    "time": "01:30 PM - 03:00 PM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 681,
+    "type": "lab",
+    "code": "ICE213",
+    "sec": "05",
+    "faculty": "RDA",
+    "time": "10:10 AM - 12:10 PM",
+    "days": [
+      "Wednesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 682,
+    "type": "class",
+    "code": "ICE213",
+    "sec": "06",
+    "faculty": "RDA",
+    "time": "03:10 PM - 04:40 PM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 683,
+    "type": "lab",
+    "code": "ICE213",
+    "sec": "06",
+    "faculty": "RDA",
+    "time": "10:10 AM - 12:10 PM",
+    "days": [
+      "Monday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 684,
+    "type": "class",
+    "code": "ICE213",
+    "sec": "07",
+    "faculty": "SHK",
+    "time": "03:10 PM - 04:40 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 685,
+    "type": "lab",
+    "code": "ICE213",
+    "sec": "07",
+    "faculty": "SHK",
+    "time": "04:50 PM - 06:50 PM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 686,
+    "type": "lab",
+    "code": "ICE213",
+    "sec": "08",
+    "faculty": "TBA",
+    "time": "01:30 PM - 03:30 PM",
+    "days": [
+      "Monday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 687,
+    "type": "class",
+    "code": "ICE213",
+    "sec": "08",
+    "faculty": "PMSR",
+    "time": "03:10 PM - 04:40 PM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 688,
+    "type": "class",
+    "code": "ICE213",
+    "sec": "09",
+    "faculty": "PMSR",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 689,
+    "type": "lab",
+    "code": "ICE213",
+    "sec": "09",
+    "faculty": "TBA",
+    "time": "10:10 AM - 12:10 PM",
+    "days": [
+      "Wednesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 690,
+    "type": "class",
+    "code": "ICE213",
+    "sec": "10",
+    "faculty": "DIPAYAN",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 691,
+    "type": "lab",
+    "code": "ICE213",
+    "sec": "10",
+    "faculty": "DIPAYAN",
+    "time": "04:50 PM - 06:50 PM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 692,
+    "type": "class",
+    "code": "ICE213",
+    "sec": "11",
+    "faculty": "MAHADI",
+    "time": "01:30 PM - 03:00 PM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 693,
+    "type": "lab",
+    "code": "ICE213",
+    "sec": "11",
+    "faculty": "MAHADI",
+    "time": "04:50 PM - 06:50 PM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 694,
+    "type": "class",
+    "code": "ICE213",
+    "sec": "12",
+    "faculty": "MAHADI",
+    "time": "03:10 PM - 04:40 PM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 695,
+    "type": "lab",
+    "code": "ICE213",
+    "sec": "12",
+    "faculty": "MAHADI",
+    "time": "04:50 PM - 06:50 PM",
+    "days": [
+      "Tuesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 696,
+    "type": "class",
+    "code": "ICE213",
+    "sec": "13",
+    "faculty": "TBA",
+    "time": "08:30 AM - 10:00 AM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 697,
+    "type": "lab",
+    "code": "ICE213",
+    "sec": "13",
+    "faculty": "TBA",
+    "time": "08:00 AM - 10:00 AM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 698,
+    "type": "lab",
+    "code": "ICE213",
+    "sec": "14",
+    "faculty": "TBA",
+    "time": "04:50 PM - 06:50 PM",
+    "days": [
+      "Monday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 699,
+    "type": "class",
+    "code": "ICE213",
+    "sec": "14",
+    "faculty": "TBA",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 700,
+    "type": "class",
+    "code": "ICE213",
+    "sec": "15",
+    "faculty": "TBA",
+    "time": "08:30 AM - 10:00 AM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 701,
+    "type": "lab",
+    "code": "ICE213",
+    "sec": "15",
+    "faculty": "TBA",
+    "time": "10:10 AM - 12:10 PM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 702,
+    "type": "class",
+    "code": "ICE216",
+    "sec": "01",
+    "faculty": "TBA",
+    "time": "08:30 AM - 10:00 AM",
+    "days": [
+      "Thursday",
+      "Sunday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 703,
+    "type": "class",
+    "code": "ICE217",
+    "sec": "01",
+    "faculty": "ALI",
+    "time": "10:10 AM - 11:40 AM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 704,
+    "type": "lab",
+    "code": "ICE217",
+    "sec": "01",
+    "faculty": "ALI",
+    "time": "10:10 AM - 12:10 PM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 705,
+    "type": "class",
+    "code": "ICE217",
+    "sec": "02",
+    "faculty": "ALI",
+    "time": "01:30 PM - 03:00 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 706,
+    "type": "lab",
+    "code": "ICE217",
+    "sec": "02",
+    "faculty": "ALI",
+    "time": "04:50 PM - 06:50 PM",
+    "days": [
+      "Tuesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 707,
+    "type": "class",
+    "code": "ICE217",
+    "sec": "03",
+    "faculty": "DTS",
+    "time": "10:10 AM - 11:40 AM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 708,
+    "type": "lab",
+    "code": "ICE217",
+    "sec": "03",
+    "faculty": "DTS",
+    "time": "10:10 AM - 12:10 PM",
+    "days": [
+      "Wednesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 709,
+    "type": "class",
+    "code": "ICE217",
+    "sec": "04",
+    "faculty": "MKN",
+    "time": "10:10 AM - 11:40 AM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 710,
+    "type": "lab",
+    "code": "ICE217",
+    "sec": "04",
+    "faculty": "MKN",
+    "time": "10:10 AM - 12:10 PM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 711,
+    "type": "lab",
+    "code": "ICE217",
+    "sec": "05",
+    "faculty": "MKN",
+    "time": "01:30 PM - 03:30 PM",
+    "days": [
+      "Monday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 712,
+    "type": "class",
+    "code": "ICE217",
+    "sec": "05",
+    "faculty": "MKN",
+    "time": "01:30 PM - 03:00 PM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 713,
+    "type": "lab",
+    "code": "ICE217",
+    "sec": "06",
+    "faculty": "NISHAT",
+    "time": "10:10 AM - 12:10 PM",
+    "days": [
+      "Tuesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 714,
+    "type": "class",
+    "code": "ICE217",
+    "sec": "06",
+    "faculty": "NISHAT",
+    "time": "08:30 AM - 10:00 AM",
+    "days": [
+      "Thursday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 715,
+    "type": "lab",
+    "code": "ICE217",
+    "sec": "07",
+    "faculty": "NISHAT",
+    "time": "08:00 AM - 10:00 AM",
+    "days": [
+      "Monday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 716,
+    "type": "class",
+    "code": "ICE217",
+    "sec": "07",
+    "faculty": "NISHAT",
+    "time": "10:10 AM - 11:40 AM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 717,
+    "type": "class",
+    "code": "ICE217",
+    "sec": "08",
+    "faculty": "TBA",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 718,
+    "type": "lab",
+    "code": "ICE217",
+    "sec": "08",
+    "faculty": "TBA",
+    "time": "01:30 PM - 03:30 PM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 719,
+    "type": "lab",
+    "code": "ICE245",
+    "sec": "01",
+    "faculty": "DTBI",
+    "time": "04:50 PM - 07:50 PM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 720,
+    "type": "class",
+    "code": "ICE245",
+    "sec": "01",
+    "faculty": "DTBI",
+    "time": "11:50 AM - 01:20 PM",
+    "days": [
+      "Tuesday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 721,
+    "type": "class",
+    "code": "ICE245",
+    "sec": "02",
+    "faculty": "DTBI",
+    "time": "03:10 PM - 04:40 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 722,
+    "type": "lab",
+    "code": "ICE245",
+    "sec": "02",
+    "faculty": "TBA",
+    "time": "04:50 PM - 07:50 PM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 723,
+    "type": "class",
+    "code": "ICE245",
+    "sec": "03",
+    "faculty": "DTS",
+    "time": "08:30 AM - 10:00 AM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 724,
+    "type": "lab",
+    "code": "ICE245",
+    "sec": "03",
+    "faculty": "DTS",
+    "time": "01:30 PM - 04:30 PM",
+    "days": [
+      "Wednesday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 725,
+    "type": "lab",
+    "code": "ICE245",
+    "sec": "04",
+    "faculty": "DTS",
+    "time": "08:00 AM - 11:00 AM",
+    "days": [
+      "Monday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 726,
+    "type": "class",
+    "code": "ICE245",
+    "sec": "04",
+    "faculty": "DTS",
+    "time": "01:30 PM - 03:00 PM",
+    "days": [
+      "Thursday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 727,
+    "type": "class",
+    "code": "ICE245",
+    "sec": "05",
+    "faculty": "DHMAI",
+    "time": "03:10 PM - 04:40 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 728,
+    "type": "lab",
+    "code": "ICE245",
+    "sec": "05",
+    "faculty": "DHMAI",
+    "time": "04:50 PM - 07:50 PM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 729,
+    "type": "lab",
+    "code": "ICE245",
+    "sec": "06",
+    "faculty": "TBA",
+    "time": "10:10 AM - 01:10 PM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 730,
+    "type": "class",
+    "code": "ICE245",
+    "sec": "06",
+    "faculty": "RARZ",
+    "time": "08:30 AM - 10:00 AM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 731,
+    "type": "class",
+    "code": "ICE245",
+    "sec": "07",
+    "faculty": "RARZ",
+    "time": "10:10 AM - 11:40 AM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 732,
+    "type": "lab",
+    "code": "ICE245",
+    "sec": "07",
+    "faculty": "AMITM",
+    "time": "10:10 AM - 01:10 PM",
+    "days": [
+      "Tuesday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 733,
+    "type": "lab",
+    "code": "ICE245",
+    "sec": "08",
+    "faculty": "RABEA",
+    "time": "01:30 PM - 03:30 PM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 734,
+    "type": "class",
+    "code": "ICE245",
+    "sec": "08",
+    "faculty": "RABEA",
+    "time": "08:30 AM - 10:00 AM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 735,
+    "type": "lab",
+    "code": "ICE245",
+    "sec": "09",
+    "faculty": "TBA",
+    "time": "08:00 AM - 10:00 AM",
+    "days": [
+      "Monday",
+      "Thursday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 736,
+    "type": "class",
+    "code": "ICE245",
+    "sec": "09",
+    "faculty": "TBA",
+    "time": "08:30 AM - 10:00 AM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 737,
+    "type": "lab",
+    "code": "ICE245",
+    "sec": "10",
+    "faculty": "TBA",
+    "time": "10:10 AM - 01:10 PM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 738,
+    "type": "class",
+    "code": "ICE245",
+    "sec": "10",
+    "faculty": "TBA",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 739,
+    "type": "lab",
+    "code": "ICE245",
+    "sec": "11",
+    "faculty": "TBA",
+    "time": "08:00 AM - 10:00 AM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 740,
+    "type": "class",
+    "code": "ICE245",
+    "sec": "11",
+    "faculty": "TBA",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Tuesday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 741,
+    "type": "lab",
+    "code": "ICE245",
+    "sec": "12",
+    "faculty": "TBA",
+    "time": "08:00 AM - 10:00 AM",
+    "days": [
+      "Monday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 742,
+    "type": "class",
+    "code": "ICE245",
+    "sec": "12",
+    "faculty": "TBA",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Thursday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 743,
+    "type": "class",
+    "code": "ICE245",
+    "sec": "13",
+    "faculty": "TBA",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 744,
+    "type": "lab",
+    "code": "ICE245",
+    "sec": "13",
+    "faculty": "TBA",
+    "time": "08:00 AM - 10:00 AM",
+    "days": [
+      "Wednesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 745,
+    "type": "lab",
+    "code": "ICE245",
+    "sec": "14",
+    "faculty": "TBA",
+    "time": "04:50 PM - 07:50 PM",
+    "days": [
+      "Monday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 746,
+    "type": "class",
+    "code": "ICE245",
+    "sec": "14",
+    "faculty": "TBA",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 747,
+    "type": "class",
+    "code": "ICE245",
+    "sec": "15",
+    "faculty": "TBA",
+    "time": "03:10 PM - 04:40 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 748,
+    "type": "lab",
+    "code": "ICE245",
+    "sec": "15",
+    "faculty": "TBA",
+    "time": "04:50 PM - 07:50 PM",
+    "days": [
+      "Monday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 749,
+    "type": "class",
+    "code": "ICE275",
+    "sec": "01",
+    "faculty": "NYA",
+    "time": "10:10 AM - 11:40 AM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 750,
+    "type": "lab",
+    "code": "ICE275",
+    "sec": "01",
+    "faculty": "KRI",
+    "time": "04:50 PM - 06:50 PM",
+    "days": [
+      "Tuesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 751,
+    "type": "class",
+    "code": "ICE275",
+    "sec": "02",
+    "faculty": "KRI",
+    "time": "01:30 PM - 03:00 PM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 752,
+    "type": "lab",
+    "code": "ICE275",
+    "sec": "02",
+    "faculty": "KRI",
+    "time": "01:30 PM - 03:30 PM",
+    "days": [
+      "Wednesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 753,
+    "type": "lab",
+    "code": "ICE275",
+    "sec": "03",
+    "faculty": "PMTI",
+    "time": "04:50 PM - 06:50 PM",
+    "days": [
+      "Tuesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 754,
+    "type": "class",
+    "code": "ICE275",
+    "sec": "03",
+    "faculty": "PMTI",
+    "time": "01:30 PM - 03:00 PM",
+    "days": [
+      "Tuesday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 755,
+    "type": "lab",
+    "code": "ICE275",
+    "sec": "04",
+    "faculty": "PMTI",
+    "time": "04:50 PM - 06:50 PM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 756,
+    "type": "class",
+    "code": "ICE275",
+    "sec": "04",
+    "faculty": "PMTI",
+    "time": "03:10 PM - 04:40 PM",
+    "days": [
+      "Tuesday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 757,
+    "type": "lab",
+    "code": "ICE275",
+    "sec": "05",
+    "faculty": "MOON",
+    "time": "01:30 PM - 03:30 PM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 758,
+    "type": "class",
+    "code": "ICE275",
+    "sec": "05",
+    "faculty": "MOON",
+    "time": "08:30 AM - 10:00 AM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 759,
+    "type": "class",
+    "code": "ICE275",
+    "sec": "06",
+    "faculty": "MOON",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 760,
+    "type": "class",
+    "code": "ICE275",
+    "sec": "06",
+    "faculty": "MOON",
+    "time": "11:50 AM - 01:20 PM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 761,
+    "type": "lab",
+    "code": "ICE275",
+    "sec": "06",
+    "faculty": "MOON",
+    "time": "11:20 AM - 01:20 PM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 762,
+    "type": "class",
+    "code": "ICE275",
+    "sec": "07",
+    "faculty": "MOON",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 763,
+    "type": "lab",
+    "code": "ICE275",
+    "sec": "07",
+    "faculty": "MOON",
+    "time": "08:00 AM - 10:00 AM",
+    "days": [
+      "Wednesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 764,
+    "type": "class",
+    "code": "ICE275",
+    "sec": "08",
+    "faculty": "TBA",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 765,
+    "type": "lab",
+    "code": "ICE275",
+    "sec": "08",
+    "faculty": "TBA",
+    "time": "08:00 AM - 10:00 AM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 766,
+    "type": "class",
+    "code": "ICE275",
+    "sec": "09",
+    "faculty": "TBA",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 767,
+    "type": "lab",
+    "code": "ICE275",
+    "sec": "09",
+    "faculty": "TBA",
+    "time": "08:00 AM - 10:00 AM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 768,
+    "type": "class",
+    "code": "ICE275",
+    "sec": "10",
+    "faculty": "TBA",
+    "time": "08:30 AM - 10:00 AM",
+    "days": [
+      "Tuesday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 769,
+    "type": "lab",
+    "code": "ICE275",
+    "sec": "10",
+    "faculty": "TBA",
+    "time": "08:00 AM - 10:00 AM",
+    "days": [
+      "Monday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 770,
+    "type": "lab",
+    "code": "ICE275",
+    "sec": "11",
+    "faculty": "TBA",
+    "time": "08:00 AM - 10:00 AM",
+    "days": [
+      "Monday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 771,
+    "type": "class",
+    "code": "ICE275",
+    "sec": "11",
+    "faculty": "TBA",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Thursday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 772,
+    "type": "lab",
+    "code": "ICE275",
+    "sec": "12",
+    "faculty": "TBA",
+    "time": "08:00 AM - 10:00 AM",
+    "days": [
+      "Wednesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 773,
+    "type": "class",
+    "code": "ICE275",
+    "sec": "12",
+    "faculty": "TBA",
+    "time": "08:30 AM - 10:00 AM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 774,
+    "type": "class",
+    "code": "ICE302",
+    "sec": "01",
+    "faculty": "MAR",
+    "time": "08:30 AM - 10:00 AM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 775,
+    "type": "lab",
+    "code": "ICE302",
+    "sec": "01",
+    "faculty": "MAR",
+    "time": "08:00 AM - 10:00 AM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 776,
+    "type": "lab",
+    "code": "ICE302",
+    "sec": "02",
+    "faculty": "MAR",
+    "time": "01:30 PM - 03:30 PM",
+    "days": [
+      "Monday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 777,
+    "type": "class",
+    "code": "ICE302",
+    "sec": "02",
+    "faculty": "MAR",
+    "time": "11:50 AM - 01:20 PM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 778,
+    "type": "class",
+    "code": "ICE302",
+    "sec": "03",
+    "faculty": "MAR",
+    "time": "08:30 AM - 10:00 AM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 779,
+    "type": "lab",
+    "code": "ICE302",
+    "sec": "03",
+    "faculty": "MAR",
+    "time": "01:30 PM - 03:30 PM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 780,
+    "type": "class",
+    "code": "ICE302",
+    "sec": "04",
+    "faculty": "KHALID",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 781,
+    "type": "lab",
+    "code": "ICE302",
+    "sec": "04",
+    "faculty": "KHALID",
+    "time": "01:30 PM - 03:30 PM",
+    "days": [
+      "Tuesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 782,
+    "type": "lab",
+    "code": "ICE302",
+    "sec": "05",
+    "faculty": "RABEA",
+    "time": "08:00 AM - 10:00 AM",
+    "days": [
+      "Tuesday",
+      "Thursday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 783,
+    "type": "class",
+    "code": "ICE302",
+    "sec": "05",
+    "faculty": "RABEA",
+    "time": "08:30 AM - 10:00 AM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 784,
+    "type": "class",
+    "code": "ICE302",
+    "sec": "06",
+    "faculty": "RABEA",
+    "time": "11:50 AM - 01:20 PM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 785,
+    "type": "lab",
+    "code": "ICE302",
+    "sec": "06",
+    "faculty": "RABEA",
+    "time": "10:10 AM - 12:10 PM",
+    "days": [
+      "Tuesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 786,
+    "type": "lab",
+    "code": "ICE302",
+    "sec": "07",
+    "faculty": "ARMAN",
+    "time": "01:30 PM - 03:30 PM",
+    "days": [
+      "Wednesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 787,
+    "type": "class",
+    "code": "ICE302",
+    "sec": "07",
+    "faculty": "ARMAN",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 788,
+    "type": "class",
+    "code": "ICE302",
+    "sec": "08",
+    "faculty": "TBA",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 789,
+    "type": "lab",
+    "code": "ICE302",
+    "sec": "08",
+    "faculty": "TBA",
+    "time": "08:00 AM - 10:00 AM",
+    "days": [
+      "Wednesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 790,
+    "type": "class",
+    "code": "ICE302",
+    "sec": "09",
+    "faculty": "TBA",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Tuesday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 791,
+    "type": "lab",
+    "code": "ICE302",
+    "sec": "09",
+    "faculty": "TBA",
+    "time": "08:00 AM - 10:00 AM",
+    "days": [
+      "Monday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 792,
+    "type": "class",
+    "code": "ICE302",
+    "sec": "10",
+    "faculty": "TBA",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 793,
+    "type": "lab",
+    "code": "ICE302",
+    "sec": "10",
+    "faculty": "TBA",
+    "time": "04:50 PM - 06:50 PM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 794,
+    "type": "lab",
+    "code": "ICE305",
+    "sec": "01",
+    "faculty": "DMRH",
+    "time": "01:30 PM - 04:30 PM",
+    "days": [
+      "Tuesday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 795,
+    "type": "class",
+    "code": "ICE305",
+    "sec": "01",
+    "faculty": "DMRH",
+    "time": "10:10 AM - 11:40 AM",
+    "days": [
+      "Tuesday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 796,
+    "type": "lab",
+    "code": "ICE305",
+    "sec": "02",
+    "faculty": "MKR",
+    "time": "10:10 AM - 01:10 PM",
+    "days": [
+      "Monday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 797,
+    "type": "class",
+    "code": "ICE305",
+    "sec": "02",
+    "faculty": "MKR",
+    "time": "08:30 AM - 10:00 AM",
+    "days": [
+      "Tuesday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 798,
+    "type": "class",
+    "code": "ICE305",
+    "sec": "03",
+    "faculty": "MKR",
+    "time": "10:10 AM - 11:40 AM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 799,
+    "type": "lab",
+    "code": "ICE305",
+    "sec": "03",
+    "faculty": "MKR",
+    "time": "08:00 AM - 11:00 AM",
+    "days": [
+      "Wednesday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 800,
+    "type": "class",
+    "code": "ICE305",
+    "sec": "04",
+    "faculty": "MRJ",
+    "time": "08:30 AM - 10:00 AM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 801,
+    "type": "lab",
+    "code": "ICE305",
+    "sec": "04",
+    "faculty": "MRJ",
+    "time": "01:30 PM - 04:30 PM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 802,
+    "type": "class",
+    "code": "ICE305",
+    "sec": "05",
+    "faculty": "MRJ",
+    "time": "10:10 AM - 11:40 AM",
+    "days": [
+      "Thursday",
+      "Sunday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 803,
+    "type": "lab",
+    "code": "ICE305",
+    "sec": "05",
+    "faculty": "MRJ",
+    "time": "10:10 AM - 01:10 PM",
+    "days": [
+      "Tuesday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 804,
+    "type": "lab",
+    "code": "ICE305",
+    "sec": "06",
+    "faculty": "MRJ",
+    "time": "01:30 PM - 04:30 PM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 805,
+    "type": "class",
+    "code": "ICE305",
+    "sec": "06",
+    "faculty": "DMSHN",
+    "time": "01:30 PM - 03:00 PM",
+    "days": [
+      "Tuesday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 806,
+    "type": "lab",
+    "code": "ICE305",
+    "sec": "07",
+    "faculty": "KRI",
+    "time": "08:00 AM - 11:00 AM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 807,
+    "type": "class",
+    "code": "ICE305",
+    "sec": "07",
+    "faculty": "DMSHN",
+    "time": "03:10 PM - 04:40 PM",
+    "days": [
+      "Tuesday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 808,
+    "type": "lab",
+    "code": "ICE305",
+    "sec": "08",
+    "faculty": "KRI",
+    "time": "01:30 PM - 03:30 PM",
+    "days": [
+      "Monday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 809,
+    "type": "class",
+    "code": "ICE305",
+    "sec": "08",
+    "faculty": "KRI",
+    "time": "03:10 PM - 04:40 PM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 810,
+    "type": "class",
+    "code": "ICE305",
+    "sec": "09",
+    "faculty": "KRI",
+    "time": "11:50 AM - 01:20 PM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 811,
+    "type": "lab",
+    "code": "ICE305",
+    "sec": "09",
+    "faculty": "KRI",
+    "time": "08:00 AM - 11:00 AM",
+    "days": [
+      "Wednesday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 812,
+    "type": "class",
+    "code": "ICE305",
+    "sec": "10",
+    "faculty": "TBA",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 813,
+    "type": "lab",
+    "code": "ICE305",
+    "sec": "10",
+    "faculty": "TBA",
+    "time": "04:50 PM - 07:50 PM",
+    "days": [
+      "Wednesday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 814,
+    "type": "class",
+    "code": "ICE310",
+    "sec": "01",
+    "faculty": "DMSA",
+    "time": "08:30 AM - 10:00 AM",
+    "days": [
+      "Tuesday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 815,
+    "type": "class",
+    "code": "ICE311",
+    "sec": "01",
+    "faculty": "ALI",
+    "time": "10:10 AM - 11:40 AM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 816,
+    "type": "lab",
+    "code": "ICE311",
+    "sec": "01",
+    "faculty": "ALI",
+    "time": "10:10 AM - 12:10 PM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 817,
+    "type": "class",
+    "code": "ICE311",
+    "sec": "02",
+    "faculty": "ALI",
+    "time": "01:30 PM - 03:00 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 818,
+    "type": "lab",
+    "code": "ICE311",
+    "sec": "02",
+    "faculty": "ALI",
+    "time": "04:50 PM - 06:50 PM",
+    "days": [
+      "Tuesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 819,
+    "type": "class",
+    "code": "ICE311",
+    "sec": "03",
+    "faculty": "DTS",
+    "time": "10:10 AM - 11:40 AM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 820,
+    "type": "lab",
+    "code": "ICE311",
+    "sec": "03",
+    "faculty": "DTS",
+    "time": "10:10 AM - 12:10 PM",
+    "days": [
+      "Wednesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 821,
+    "type": "class",
+    "code": "ICE311",
+    "sec": "04",
+    "faculty": "MKN",
+    "time": "10:10 AM - 11:40 AM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 822,
+    "type": "lab",
+    "code": "ICE311",
+    "sec": "04",
+    "faculty": "MKN",
+    "time": "10:10 AM - 12:10 PM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 823,
+    "type": "lab",
+    "code": "ICE311",
+    "sec": "05",
+    "faculty": "MKN",
+    "time": "01:30 PM - 03:30 PM",
+    "days": [
+      "Monday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 824,
+    "type": "class",
+    "code": "ICE311",
+    "sec": "05",
+    "faculty": "MKN",
+    "time": "01:30 PM - 03:00 PM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 825,
+    "type": "class",
+    "code": "ICE311",
+    "sec": "06",
+    "faculty": "NISHAT",
+    "time": "08:30 AM - 10:00 AM",
+    "days": [
+      "Tuesday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 826,
+    "type": "lab",
+    "code": "ICE311",
+    "sec": "06",
+    "faculty": "NISHAT",
+    "time": "10:10 AM - 12:10 PM",
+    "days": [
+      "Tuesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 827,
+    "type": "lab",
+    "code": "ICE311",
+    "sec": "07",
+    "faculty": "NISHAT",
+    "time": "08:00 AM - 10:00 AM",
+    "days": [
+      "Monday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 828,
+    "type": "class",
+    "code": "ICE311",
+    "sec": "07",
+    "faculty": "NISHAT",
+    "time": "10:10 AM - 11:40 AM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 829,
+    "type": "lab",
+    "code": "ICE311",
+    "sec": "08",
+    "faculty": "TBA",
+    "time": "01:30 PM - 03:30 PM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 830,
+    "type": "class",
+    "code": "ICE311",
+    "sec": "08",
+    "faculty": "TBA",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 831,
+    "type": "class",
+    "code": "ICE312",
+    "sec": "01",
+    "faculty": "KHALID",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 832,
+    "type": "lab",
+    "code": "ICE312",
+    "sec": "01",
+    "faculty": "KHALID",
+    "time": "01:30 PM - 03:30 PM",
+    "days": [
+      "Wednesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 833,
+    "type": "class",
+    "code": "ICE312",
+    "sec": "02",
+    "faculty": "KHALID",
+    "time": "03:10 PM - 04:40 PM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 834,
+    "type": "lab",
+    "code": "ICE312",
+    "sec": "02",
+    "faculty": "KHALID",
+    "time": "04:50 PM - 06:50 PM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 835,
+    "type": "class",
+    "code": "ICE313",
+    "sec": "01",
+    "faculty": "DMSA",
+    "time": "10:10 AM - 11:40 AM",
+    "days": [
+      "Tuesday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 836,
+    "type": "lab",
+    "code": "ICE313",
+    "sec": "01",
+    "faculty": "TBA",
+    "time": "08:00 AM - 10:00 AM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 837,
+    "type": "class",
+    "code": "ICE314",
+    "sec": "01",
+    "faculty": "SSULTANA",
+    "time": "03:10 PM - 04:40 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 838,
+    "type": "lab",
+    "code": "ICE314",
+    "sec": "01",
+    "faculty": "SSULTANA",
+    "time": "04:50 PM - 06:50 PM",
+    "days": [
+      "Wednesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 839,
+    "type": "lab",
+    "code": "ICE322",
+    "sec": "01",
+    "faculty": "DFZA",
+    "time": "04:50 PM - 06:50 PM",
+    "days": [
+      "Monday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 840,
+    "type": "class",
+    "code": "ICE322",
+    "sec": "01",
+    "faculty": "DFZA",
+    "time": "03:10 PM - 04:40 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 841,
+    "type": "lab",
+    "code": "ICE370",
+    "sec": "01",
+    "faculty": "DSU",
+    "time": "04:50 PM - 07:50 PM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 842,
+    "type": "class",
+    "code": "ICE370",
+    "sec": "01",
+    "faculty": "DSU",
+    "time": "10:10 AM - 11:40 AM",
+    "days": [
+      "Tuesday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 843,
+    "type": "lab",
+    "code": "ICE399",
+    "sec": "01",
+    "faculty": "TBA",
+    "time": "04:50 PM - 06:50 PM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 844,
+    "type": "class",
+    "code": "ICE439",
+    "sec": "01",
+    "faculty": "DFZA",
+    "time": "01:30 PM - 03:00 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 845,
+    "type": "class",
+    "code": "ICE469",
+    "sec": "01",
+    "faculty": "NYA",
+    "time": "10:10 AM - 11:40 AM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 846,
+    "type": "class",
+    "code": "ICE469",
+    "sec": "02",
+    "faculty": "NYA",
+    "time": "01:30 PM - 03:00 PM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 847,
+    "type": "class",
+    "code": "ICE469",
+    "sec": "03",
+    "faculty": "DMEI",
+    "time": "08:30 AM - 10:00 AM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 848,
+    "type": "class",
+    "code": "ICE469",
+    "sec": "04",
+    "faculty": "DMEI",
+    "time": "10:10 AM - 11:40 AM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 849,
+    "type": "class",
+    "code": "ICE469",
+    "sec": "05",
+    "faculty": "SDIS",
+    "time": "11:50 AM - 01:20 PM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 850,
+    "type": "class",
+    "code": "ICE469",
+    "sec": "06",
+    "faculty": "SDIS",
+    "time": "01:30 PM - 03:00 PM",
+    "days": [
+      "Thursday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 851,
+    "type": "lab",
+    "code": "ICE470",
+    "sec": "01",
+    "faculty": "DSU",
+    "time": "04:50 PM - 07:50 PM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 180
+  },
+  {
+    "id": 852,
+    "type": "class",
+    "code": "ICE470",
+    "sec": "01",
+    "faculty": "DSU",
+    "time": "10:10 AM - 11:40 AM",
+    "days": [
+      "Tuesday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 853,
+    "type": "class",
+    "code": "ICE473",
+    "sec": "01",
+    "faculty": "SDIS",
+    "time": "01:30 PM - 03:00 PM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 854,
+    "type": "class",
+    "code": "ICE473",
+    "sec": "02",
+    "faculty": "DCR",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 855,
+    "type": "class",
+    "code": "ICE473",
+    "sec": "03",
+    "faculty": "DCR",
+    "time": "06:30 PM - 08:00 PM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 856,
+    "type": "lab",
+    "code": "ICE475",
+    "sec": "01",
+    "faculty": "DRUI",
+    "time": "01:30 PM - 03:30 PM",
+    "days": [
+      "Monday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 857,
+    "type": "class",
+    "code": "ICE475",
+    "sec": "01",
+    "faculty": "DRUI",
+    "time": "10:10 AM - 11:40 AM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 858,
+    "type": "lab",
+    "code": "ICE475",
+    "sec": "02",
+    "faculty": "MRAR",
+    "time": "04:50 PM - 06:50 PM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 859,
+    "type": "class",
+    "code": "ICE475",
+    "sec": "02",
+    "faculty": "MRAR",
+    "time": "03:10 PM - 04:40 PM",
+    "days": [
+      "Tuesday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 860,
+    "type": "lab",
+    "code": "ICE475",
+    "sec": "03",
+    "faculty": "DMGR",
+    "time": "08:00 AM - 10:00 AM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 861,
+    "type": "class",
+    "code": "ICE475",
+    "sec": "03",
+    "faculty": "DMGR",
+    "time": "10:10 AM - 11:40 AM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 862,
+    "type": "class",
+    "code": "ICE475",
+    "sec": "04",
+    "faculty": "DMGR",
+    "time": "11:50 AM - 01:20 PM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 863,
+    "type": "lab",
+    "code": "ICE475",
+    "sec": "04",
+    "faculty": "DMGR",
+    "time": "08:00 AM - 10:00 AM",
+    "days": [
+      "Tuesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 864,
+    "type": "class",
+    "code": "ICE475",
+    "sec": "05",
+    "faculty": "IMRAN",
+    "time": "03:10 PM - 04:40 PM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 865,
+    "type": "lab",
+    "code": "ICE475",
+    "sec": "05",
+    "faculty": "IMRAN",
+    "time": "04:50 PM - 06:50 PM",
+    "days": [
+      "Wednesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 866,
+    "type": "lab",
+    "code": "ICE475",
+    "sec": "06",
+    "faculty": "IMRAN",
+    "time": "04:50 PM - 06:50 PM",
+    "days": [
+      "Monday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 867,
+    "type": "class",
+    "code": "ICE475",
+    "sec": "06",
+    "faculty": "IMRAN",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 868,
+    "type": "class",
+    "code": "ICE475",
+    "sec": "07",
+    "faculty": "TBA",
+    "time": "10:10 AM - 11:40 AM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 869,
+    "type": "lab",
+    "code": "ICE475",
+    "sec": "07",
+    "faculty": "TBA",
+    "time": "10:10 AM - 12:10 PM",
+    "days": [
+      "Tuesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 870,
+    "type": "class",
+    "code": "ICE475",
+    "sec": "08",
+    "faculty": "TBA",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 871,
+    "type": "lab",
+    "code": "ICE475",
+    "sec": "08",
+    "faculty": "TBA",
+    "time": "08:00 AM - 10:00 AM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 872,
+    "type": "lab",
+    "code": "ICE476",
+    "sec": "01",
+    "faculty": "DRUI",
+    "time": "01:30 PM - 03:30 PM",
+    "days": [
+      "Monday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 873,
+    "type": "class",
+    "code": "ICE476",
+    "sec": "01",
+    "faculty": "DRUI",
+    "time": "10:10 AM - 11:40 AM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 874,
+    "type": "lab",
+    "code": "ICE476",
+    "sec": "02",
+    "faculty": "MRAR",
+    "time": "04:50 PM - 06:50 PM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 875,
+    "type": "class",
+    "code": "ICE476",
+    "sec": "02",
+    "faculty": "MRAR",
+    "time": "03:10 PM - 04:40 PM",
+    "days": [
+      "Tuesday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 876,
+    "type": "lab",
+    "code": "ICE476",
+    "sec": "03",
+    "faculty": "DMGR",
+    "time": "08:00 AM - 10:00 AM",
+    "days": [
+      "Sunday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 877,
+    "type": "class",
+    "code": "ICE476",
+    "sec": "03",
+    "faculty": "DMGR",
+    "time": "10:10 AM - 11:40 AM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 878,
+    "type": "class",
+    "code": "ICE476",
+    "sec": "04",
+    "faculty": "DMGR",
+    "time": "11:50 AM - 01:20 PM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 879,
+    "type": "lab",
+    "code": "ICE476",
+    "sec": "04",
+    "faculty": "DMGR",
+    "time": "08:00 AM - 10:00 AM",
+    "days": [
+      "Tuesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 880,
+    "type": "class",
+    "code": "ICE476",
+    "sec": "05",
+    "faculty": "IMRAN",
+    "time": "03:10 PM - 04:40 PM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 881,
+    "type": "lab",
+    "code": "ICE476",
+    "sec": "05",
+    "faculty": "IMRAN",
+    "time": "04:50 PM - 06:50 PM",
+    "days": [
+      "Wednesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 882,
+    "type": "class",
+    "code": "ICE476",
+    "sec": "06",
+    "faculty": "IMRAN",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 883,
+    "type": "lab",
+    "code": "ICE476",
+    "sec": "06",
+    "faculty": "IMRAN",
+    "time": "04:50 PM - 06:50 PM",
+    "days": [
+      "Monday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 884,
+    "type": "class",
+    "code": "ICE476",
+    "sec": "07",
+    "faculty": "TBA",
+    "time": "10:10 AM - 11:40 AM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 885,
+    "type": "lab",
+    "code": "ICE476",
+    "sec": "07",
+    "faculty": "TBA",
+    "time": "10:10 AM - 12:10 PM",
+    "days": [
+      "Tuesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 886,
+    "type": "class",
+    "code": "ICE476",
+    "sec": "08",
+    "faculty": "TBA",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Tuesday",
+      "Sunday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 887,
+    "type": "lab",
+    "code": "ICE476",
+    "sec": "08",
+    "faculty": "TBA",
+    "time": "08:00 AM - 10:00 AM",
+    "days": [
+      "Thursday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 888,
+    "type": "class",
+    "code": "ICE478",
+    "sec": "01",
+    "faculty": "MRAR",
+    "time": "11:50 AM - 01:20 PM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 889,
+    "type": "lab",
+    "code": "ICE478",
+    "sec": "01",
+    "faculty": "MRAR",
+    "time": "04:50 PM - 06:50 PM",
+    "days": [
+      "Tuesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 890,
+    "type": "lab",
+    "code": "ICE478",
+    "sec": "02",
+    "faculty": "DRUI",
+    "time": "10:10 AM - 12:10 PM",
+    "days": [
+      "Wednesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 891,
+    "type": "class",
+    "code": "ICE478",
+    "sec": "02",
+    "faculty": "DRUI",
+    "time": "11:50 AM - 01:20 PM",
+    "days": [
+      "Tuesday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 892,
+    "type": "lab",
+    "code": "ICE478",
+    "sec": "03",
+    "faculty": "DMIM",
+    "time": "10:10 AM - 12:10 PM",
+    "days": [
+      "Monday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 893,
+    "type": "class",
+    "code": "ICE478",
+    "sec": "03",
+    "faculty": "DMIM",
+    "time": "08:30 AM - 10:00 AM",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 894,
+    "type": "lab",
+    "code": "ICE478",
+    "sec": "04",
+    "faculty": "ATIQ",
+    "time": "04:50 PM - 06:50 PM",
+    "days": [
+      "Monday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 895,
+    "type": "class",
+    "code": "ICE478",
+    "sec": "04",
+    "faculty": "ATIQ",
+    "time": "03:10 PM - 04:40 PM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 896,
+    "type": "class",
+    "code": "ICE478",
+    "sec": "05",
+    "faculty": "ATIQ",
+    "time": "04:50 PM - 06:20 PM",
+    "days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "duration": 90
+  },
+  {
+    "id": 897,
+    "type": "lab",
+    "code": "ICE478",
+    "sec": "05",
+    "faculty": "ATIQ",
+    "time": "04:50 PM - 06:50 PM",
+    "days": [
+      "Wednesday"
+    ],
+    "duration": 120
+  },
+  {
+    "id": 898,
+    "type": "class",
+    "code": "ICE496A",
+    "sec": "01",
+    "faculty": "TBA",
+    "time": "09:00 AM - 10:00 AM",
+    "days": [
+      null
+    ],
+    "duration": 60
+  },
+  {
+    "id": 899,
+    "type": "class",
+    "code": "ICE496B",
+    "sec": "01",
+    "faculty": "TBA",
+    "time": "",
+    "days": [],
+    "duration": null
+  },
+  {
+    "id": 900,
+    "type": "class",
+    "code": "ICE496C",
+    "sec": "01",
+    "faculty": "TBA",
+    "time": "",
+    "days": [],
+    "duration": null
+  },
+  {
+    "id": 901,
+    "type": "class",
+    "code": "ICE498",
+    "sec": "01",
+    "faculty": "TBA",
+    "time": "",
+    "days": [],
+    "duration": null
+  }
+]
